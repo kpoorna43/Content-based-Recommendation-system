@@ -1,0 +1,1913 @@
+movieId,title,genres
+1,Toy Story ,Adventure|Animation|Children|Comedy|Fantasy
+2,Jumanji ,Adventure|Children|Fantasy
+3,Grumpier Old Men ,Comedy|Romance
+4,Waiting to Exhale ,Comedy|Drama|Romance
+5,Father of the Bride Part II ,Comedy
+6,Heat ,Action|Crime|Thriller
+7,Sabrina ,Comedy|Romance
+8,Tom and Huck ,Adventure|Children
+9,Sudden Death ,Action
+10,GoldenEye ,Action|Adventure|Thriller
+11,"American President, The ",Comedy|Drama|Romance
+12,Dracula: Dead and Loving It ,Comedy|Horror
+13,Balto ,Adventure|Animation|Children
+14,Nixon ,Drama
+15,Cutthroat Island ,Action|Adventure|Romance
+16,Casino ,Crime|Drama
+17,Sense and Sensibility ,Drama|Romance
+18,Four Rooms ,Comedy
+19,Ace Ventura: When Nature Calls ,Comedy
+20,Money Train ,Action|Comedy|Crime|Drama|Thriller
+21,Get Shorty ,Comedy|Crime|Thriller
+22,Copycat ,Crime|Drama|Horror|Mystery|Thriller
+23,Assassins ,Action|Crime|Thriller
+24,Powder ,Drama|Sci-Fi
+25,Leaving Las Vegas ,Drama|Romance
+26,Othello ,Drama
+27,Now and Then ,Children|Drama
+28,Persuasion ,Drama|Romance
+29,"City of Lost Children, The ",Adventure|Drama|Fantasy|Mystery|Sci-Fi
+30,Shanghai Triad ,Crime|Drama
+31,Dangerous Minds ,Drama
+32,Twelve Monkeys ,Mystery|Sci-Fi|Thriller
+33,Wings of Courage ,Adventure|Romance|IMAX
+34,Babe ,Children|Drama
+35,Carrington ,Drama|Romance
+36,Dead Man Walking ,Crime|Drama
+37,Across the Sea of Time ,Documentary|IMAX
+38,It Takes Two ,Children|Comedy
+39,Clueless ,Comedy|Romance
+40,"Cry, the Beloved Country ",Drama
+41,Richard III ,Drama|War
+42,Dead Presidents ,Action|Crime|Drama
+43,Restoration ,Drama
+44,Mortal Kombat ,Action|Adventure|Fantasy
+45,To Die For ,Comedy|Drama|Thriller
+46,How to Make an American Quilt ,Drama|Romance
+47,Seven ,Mystery|Thriller
+48,Pocahontas ,Animation|Children|Drama|Musical|Romance
+49,When Night Is Falling ,Drama|Romance
+50,"Usual Suspects, The ",Crime|Mystery|Thriller
+51,Guardian Angel ,Action|Drama|Thriller
+52,Mighty Aphrodite ,Comedy|Drama|Romance
+53,Lamerica ,Adventure|Drama
+54,"Big Green, The ",Children|Comedy
+55,Georgia ,Drama
+56,Kids of the Round Table ,Adventure|Children|Comedy|Fantasy
+57,Home for the Holidays ,Drama
+58,"Postman, The ",Comedy|Drama|Romance
+59,"Confessional, The ",Drama|Mystery
+60,"Indian in the Cupboard, The ",Adventure|Children|Fantasy
+61,Eye for an Eye ,Drama|Thriller
+62,Mr. Holland's Opus ,Drama
+63,Don't Be a Menace to South Central While Drinking Your Juice in the Hood ,Comedy|Crime
+64,Two if by Sea ,Comedy|Romance
+65,Bio-Dome ,Comedy
+66,Lawnmower Man 2: Beyond Cyberspace ,Action|Sci-Fi|Thriller
+67,Two Bits ,Drama
+68,French Twist ,Comedy|Romance
+69,Friday ,Comedy
+70,From Dusk Till Dawn ,Action|Comedy|Horror|Thriller
+71,Fair Game ,Action
+72,Kicking and Screaming ,Comedy|Drama
+73,"Misérables, Les ",Drama|War
+74,Bed of Roses ,Drama|Romance
+75,Big Bully ,Comedy|Drama
+76,Screamers ,Action|Sci-Fi|Thriller
+77,Nico Icon ,Documentary
+78,"Crossing Guard, The ",Action|Crime|Drama|Thriller
+79,"Juror, The ",Drama|Thriller
+80,"White Balloon, The ",Children|Drama
+81,Things to Do in Denver When You're Dead ,Crime|Drama|Romance
+82,Antonia's Line ,Comedy|Drama
+83,Once Upon a Time... When We Were Colored ,Drama|Romance
+84,Last Summer in the Hamptons ,Comedy|Drama
+85,Angels and Insects ,Drama|Romance
+86,White Squall ,Action|Adventure|Drama
+87,Dunston Checks In ,Children|Comedy
+88,Black Sheep ,Comedy
+89,Nick of Time ,Action|Thriller
+90,The Journey of August King ,Drama
+92,Mary Reilly ,Drama|Horror|Thriller
+93,Vampire in Brooklyn ,Comedy|Horror|Romance
+94,Beautiful Girls ,Comedy|Drama|Romance
+95,Broken Arrow ,Action|Adventure|Thriller
+96,In the Bleak Midwinter ,Comedy|Drama
+97,Hate ,Crime|Drama
+98,Shopping ,Action|Thriller
+99,Heidi Fleiss: Hollywood Madam ,Documentary
+100,City Hall ,Drama|Thriller
+101,Bottle Rocket ,Adventure|Comedy|Crime|Romance
+102,Mr. Wrong ,Comedy
+103,Unforgettable ,Mystery|Sci-Fi|Thriller
+104,Happy Gilmore ,Comedy
+105,"Bridges of Madison County, The ",Drama|Romance
+106,Nobody Loves Me ,Comedy|Drama
+107,Muppet Treasure Island ,Adventure|Children|Comedy|Musical
+108,Catwalk ,Documentary
+109,Headless Body in Topless Bar ,Comedy|Drama|Thriller
+110,Braveheart ,Action|Drama|War
+111,Taxi Driver ,Crime|Drama|Thriller
+112,Rumble in the Bronx ,Action|Adventure|Comedy|Crime
+113,Before and After ,Drama|Mystery
+114,Margaret's Museum ,Drama
+115,Happiness Is in the Field ,Comedy
+116,Anne Frank Remembered ,Documentary
+117,"Young Poisoner's Handbook, The ",Crime|Drama
+118,If Lucy Fell ,Comedy|Romance
+119,"Steal Big, Steal Little ",Comedy
+120,Race the Sun ,Adventure|Comedy|Drama
+121,"Boys of St. Vincent, The ",Drama
+122,Boomerang ,Comedy|Romance
+123,Chungking Express ,Drama|Mystery|Romance
+124,"Star Maker, The ",Drama
+125,Flirting With Disaster ,Comedy
+126,"NeverEnding Story III, The ",Adventure|Children|Fantasy
+127,"Silences of the Palace, The ",Drama
+128,Jupiter's Wife ,Documentary
+129,Pie in the Sky ,Comedy|Romance
+130,Angela ,Drama
+131,Frankie Starlight ,Drama|Romance
+132,Jade ,Thriller
+133,Nueba Yol ,Comedy|Drama
+134,Sonic Outlaws ,Documentary
+135,Down Periscope ,Comedy
+136,From the Journals of Jean Seberg ,Documentary
+137,Man of the Year ,Documentary
+138,"Neon Bible, The ",Drama
+139,Target ,Action|Drama
+140,Up Close and Personal ,Drama|Romance
+141,"Birdcage, The ",Comedy
+142,Shadows ,Drama
+143,Gospa ,Drama
+144,"Brothers McMullen, The ",Comedy
+145,Bad Boys ,Action|Comedy|Crime|Drama|Thriller
+146,"Amazing Panda Adventure, The ",Adventure|Children
+147,"Basketball Diaries, The ",Drama
+148,"Awfully Big Adventure, An ",Drama
+149,Amateur ,Crime|Drama|Thriller
+150,Apollo 13 ,Adventure|Drama|IMAX
+151,Rob Roy ,Action|Drama|Romance|War
+152,"Addiction, The ",Drama|Horror
+153,Batman Forever ,Action|Adventure|Comedy|Crime
+154,Beauty of the Day ,Drama
+155,Beyond Rangoon ,Adventure|Drama|War
+156,Blue in the Face ,Comedy|Drama
+157,Canadian Bacon ,Comedy|War
+158,Casper ,Adventure|Children
+159,Clockers ,Crime|Drama|Mystery
+160,Congo ,Action|Adventure|Mystery|Sci-Fi
+161,Crimson Tide ,Drama|Thriller|War
+162,Crumb ,Documentary
+163,Desperado ,Action|Romance|Western
+164,Devil in a Blue Dress ,Crime|Film-Noir|Mystery|Thriller
+165,Die Hard: With a Vengeance ,Action|Crime|Thriller
+166,"Doom Generation, The ",Comedy|Crime|Drama
+167,Feast of July ,Drama
+168,First Knight ,Action|Drama|Romance
+169,Free Willy 2: The Adventure Home ,Adventure|Children|Drama
+170,Hackers ,Action|Adventure|Crime|Thriller
+171,Jeffrey ,Comedy|Drama
+172,Johnny Mnemonic ,Action|Sci-Fi|Thriller
+173,Judge Dredd ,Action|Crime|Sci-Fi
+174,Jury Duty ,Comedy
+175,Kids ,Drama
+176,Living in Oblivion ,Comedy
+177,Lord of Illusions ,Horror
+178,Love & Human Remains ,Comedy|Drama
+179,Mad Love ,Drama|Romance
+180,Mallrats ,Comedy|Romance
+181,Mighty Morphin Power Rangers: The Movie ,Action|Children
+182,Moonlight and Valentino ,Drama|Romance
+183,Mute Witness ,Comedy|Horror|Thriller
+184,Nadja ,Drama
+185,"Net, The ",Action|Crime|Thriller
+186,Nine Months ,Comedy|Romance
+187,Party Girl ,Comedy
+188,"Prophecy, The ",Fantasy|Horror|Mystery
+189,Reckless ,Comedy|Fantasy
+190,Safe ,Thriller
+191,"Scarlet Letter, The ",Drama|Romance
+192,The Show ,Documentary
+193,Showgirls ,Drama
+194,Smoke ,Comedy|Drama
+195,Something to Talk About ,Comedy|Drama|Romance
+196,Species ,Horror|Sci-Fi
+197,"Stars Fell on Henrietta, The ",Drama
+198,Strange Days ,Action|Crime|Drama|Mystery|Sci-Fi|Thriller
+199,"Umbrellas of Cherbourg, The ",Drama|Musical|Romance
+200,"Tie That Binds, The ",Thriller
+201,Three Wishes ,Drama|Fantasy
+202,Total Eclipse ,Drama|Romance
+203,"To Wong Foo, Thanks for Everything! Julie Newmar ",Comedy
+204,Under Siege 2: Dark Territory ,Action
+205,Unstrung Heroes ,Comedy|Drama
+206,Unzipped ,Documentary
+207,"Walk in the Clouds, A ",Drama|Romance
+208,Waterworld ,Action|Adventure|Sci-Fi
+209,White Man's Burden ,Drama
+210,Wild Bill ,Western
+211,"Browning Version, The ",Drama
+212,Bushwhacked ,Adventure|Comedy|Crime|Mystery
+213,Burnt by the Sun ,Drama
+214,Before the Rain ,Drama|War
+215,Before Sunrise ,Drama|Romance
+216,Billy Madison ,Comedy
+217,"Babysitter, The ",Drama|Thriller
+218,Boys on the Side ,Comedy|Drama
+219,"Cure, The ",Drama
+220,Castle Freak ,Horror
+222,Circle of Friends ,Drama|Romance
+223,Clerks ,Comedy
+224,Don Juan DeMarco ,Comedy|Drama|Romance
+225,Disclosure ,Drama|Thriller
+226,Dream Man ,Thriller
+227,Drop Zone ,Action|Thriller
+228,Destiny Turns on the Radio ,Comedy
+229,Death and the Maiden ,Drama|Thriller
+230,Dolores Claiborne ,Drama|Thriller
+231,Dumb & Dumber ,Adventure|Comedy
+232,Eat Drink Man Woman ,Comedy|Drama|Romance
+233,Exotica ,Drama
+234,Exit to Eden ,Comedy
+235,Ed Wood ,Comedy|Drama
+236,French Kiss ,Action|Comedy|Romance
+237,Forget Paris ,Comedy|Romance
+238,Far From Home: The Adventures of Yellow Dog ,Adventure|Children
+239,"Goofy Movie, A ",Animation|Children|Comedy|Romance
+240,Hideaway ,Thriller
+241,Fluke ,Children|Drama
+242,Farinelli: il castrato ,Drama|Musical
+243,Gordy ,Children|Comedy|Fantasy
+244,Gumby: The Movie ,Animation|Children
+245,The Glass Shield ,Crime|Drama
+246,Hoop Dreams ,Documentary
+247,Heavenly Creatures ,Crime|Drama
+248,Houseguest ,Comedy
+249,Immortal Beloved ,Drama|Romance
+250,Heavyweights ,Children|Comedy
+251,"Hunted, The ",Action
+252,I.Q. ,Comedy|Romance
+253,Interview with the Vampire: The Vampire Chronicles ,Drama|Horror
+254,Jefferson in Paris ,Drama
+255,"Jerky Boys, The ",Comedy
+256,Junior ,Comedy|Sci-Fi
+257,Just Cause ,Mystery|Thriller
+258,"Kid in King Arthur's Court, A ",Adventure|Children|Comedy|Fantasy|Romance
+259,Kiss of Death ,Crime|Drama|Thriller
+260,Star Wars: Episode IV - A New Hope ,Action|Adventure|Sci-Fi
+261,Little Women ,Drama
+262,"Little Princess, A ",Children|Drama
+263,Ladybird Ladybird ,Drama
+264,"Enfer, L' ",Drama
+265,Like Water for Chocolate ,Drama|Fantasy|Romance
+266,Legends of the Fall ,Drama|Romance|War|Western
+267,Major Payne ,Comedy
+268,Little Odessa ,Crime|Drama
+269,My Crazy Life ,Drama
+270,Love Affair ,Drama|Romance
+271,Losing Isaiah ,Drama
+272,"Madness of King George, The ",Comedy|Drama
+273,Mary Shelley's Frankenstein ,Drama|Horror|Sci-Fi
+274,Man of the House ,Comedy
+275,Mixed Nuts ,Comedy
+276,Milk Money ,Comedy|Romance
+277,Miracle on 34th Street ,Drama
+278,Miami Rhapsody ,Comedy
+279,My Family ,Drama
+280,Murder in the First ,Drama|Thriller
+281,Nobody's Fool ,Comedy|Drama|Romance
+282,Nell ,Drama
+283,New Jersey Drive ,Crime|Drama
+284,New York Cop ,Action|Crime
+285,Beyond Bedlam ,Drama|Horror
+286,Nemesis 2: Nebula ,Action|Sci-Fi|Thriller
+287,Nina Takes a Lover ,Comedy|Romance
+288,Natural Born Killers ,Action|Crime|Thriller
+289,Only You ,Comedy|Romance
+290,Once Were Warriors ,Crime|Drama
+292,Outbreak ,Action|Drama|Sci-Fi|Thriller
+293,Léon: The Professional ,Action|Crime|Drama|Thriller
+294,"Perez Family, The ",Comedy|Romance
+295,"Pyromaniac's Love Story, A ",Comedy|Romance
+296,Pulp Fiction ,Comedy|Crime|Drama|Thriller
+297,Panther ,Drama
+298,Pushing Hands ,Drama
+299,Priest ,Drama
+300,Quiz Show ,Drama
+301,Picture Bride ,Drama|Romance
+302,Queen Margot ,Drama|Romance
+303,"Quick and the Dead, The ",Action|Thriller|Western
+304,Roommates ,Comedy|Drama
+305,Ready to Wear ,Comedy
+306,Three Colors: Red ,Drama
+307,Three Colors: Blue ,Drama
+308,Three Colors: White ,Comedy|Drama
+309,"Red Firecracker, Green Firecracker ",Drama
+310,Rent-a-Kid ,Comedy
+311,Relative Fear ,Horror|Thriller
+312,Stuart Saves His Family ,Comedy
+313,"Swan Princess, The ",Animation|Children
+314,"Secret of Roan Inish, The ",Children|Drama|Fantasy|Mystery
+315,"Specialist, The ",Action|Drama|Thriller
+316,Stargate ,Action|Adventure|Sci-Fi
+317,"Santa Clause, The ",Comedy|Drama|Fantasy
+318,"Shawshank Redemption, The ",Crime|Drama
+319,Shallow Grave ,Comedy|Drama|Thriller
+320,Suture ,Film-Noir|Thriller
+321,Strawberry and Chocolate ,Drama
+322,Swimming with Sharks ,Comedy|Drama
+324,"Sum of Us, The ",Comedy|Drama
+325,National Lampoon's Senior Trip ,Comedy
+326,To Live ,Drama
+327,Tank Girl ,Action|Comedy|Sci-Fi
+328,Tales from the Crypt Presents: Demon Knight ,Horror|Thriller
+329,Star Trek: Generations ,Adventure|Drama|Sci-Fi
+330,Tales from the Hood ,Action|Crime|Horror
+331,Tom & Viv ,Drama
+332,Village of the Damned ,Horror|Sci-Fi
+333,Tommy Boy ,Comedy
+334,Vanya on 42nd Street ,Drama
+335,Underneath ,Mystery|Thriller
+336,"Walking Dead, The ",Drama|War
+337,What's Eating Gilbert Grape ,Drama
+338,Virtuosity ,Action|Sci-Fi|Thriller
+339,While You Were Sleeping ,Comedy|Romance
+340,"War, The ",Adventure|Drama|War
+341,Double Happiness ,Drama
+342,Muriel's Wedding ,Comedy
+343,"Baby-Sitters Club, The ",Children
+344,Ace Ventura: Pet Detective ,Comedy
+345,"Adventures of Priscilla, Queen of the Desert, The ",Comedy|Drama
+346,Backbeat ,Drama|Musical
+347,Bitter Moon ,Drama|Film-Noir|Romance
+348,Bullets Over Broadway ,Comedy
+349,Clear and Present Danger ,Action|Crime|Drama|Thriller
+350,"Client, The ",Drama|Mystery|Thriller
+351,"Corrina, Corrina ",Comedy|Drama|Romance
+352,Crooklyn ,Comedy|Drama
+353,"Crow, The ",Action|Crime|Fantasy|Thriller
+354,Cobb ,Drama
+355,"Flintstones, The ",Children|Comedy|Fantasy
+356,Forrest Gump ,Comedy|Drama|Romance|War
+357,Four Weddings and a Funeral ,Comedy|Romance
+358,Higher Learning ,Drama
+359,I Like It Like That ,Comedy|Drama|Romance
+360,I Love Trouble ,Action|Comedy
+361,It Could Happen to You ,Comedy|Drama|Romance
+362,"Jungle Book, The ",Adventure|Children|Romance
+363,"Wonderful, Horrible Life of Leni Riefenstahl, The ",Documentary
+364,"Lion King, The ",Adventure|Animation|Children|Drama|Musical|IMAX
+365,Little Buddha ,Drama
+366,Wes Craven's New Nightmare ,Drama|Horror|Mystery|Thriller
+367,"Mask, The ",Action|Comedy|Crime|Fantasy
+368,Maverick ,Adventure|Comedy|Western
+369,Mrs. Parker and the Vicious Circle ,Drama
+370,Naked Gun 33 1/3: The Final Insult ,Action|Comedy
+371,"Paper, The ",Comedy|Drama
+372,Reality Bites ,Comedy|Drama|Romance
+373,Red Rock West ,Thriller
+374,Richie Rich ,Children|Comedy
+375,Safe Passage ,Drama
+376,"River Wild, The ",Action|Thriller
+377,Speed ,Action|Romance|Thriller
+378,Speechless ,Comedy|Romance
+379,Timecop ,Action|Sci-Fi|Thriller
+380,True Lies ,Action|Adventure|Comedy|Romance|Thriller
+381,When a Man Loves a Woman ,Drama|Romance
+382,Wolf ,Drama|Horror|Romance|Thriller
+383,Wyatt Earp ,Western
+384,Bad Company ,Action|Crime|Drama
+385,"Man of No Importance, A ",Drama
+386,S.F.W. ,Drama
+387,"Low Down Dirty Shame, A ",Action|Comedy
+388,Boys Life ,Drama
+389,"Colonel Chabert, Le ",Drama|Romance|War
+390,Faster Pussycat! Kill! Kill! ,Action|Crime|Drama
+391,Jason's Lyric ,Crime|Drama
+392,"Secret Adventures of Tom Thumb, The ",Adventure|Animation
+393,Street Fighter ,Action|Adventure|Fantasy
+394,Coldblooded ,Comedy
+395,Desert Winds ,Drama|Fantasy|Romance
+396,Fall Time ,Drama
+397,"Fear, The ",Horror
+398,Frank and Ollie ,Documentary
+399,Girl in the Cadillac ,Drama
+400,Homage ,Drama
+401,Mirage ,Action|Thriller
+402,Open Season ,Comedy
+403,Two Crimes ,Comedy|Crime|Drama
+404,Brother Minister: The Assassination of Malcolm X ,Documentary
+405,Highlander III: The Sorcerer ,Action|Fantasy
+406,Federal Hill ,Drama
+407,In the Mouth of Madness ,Horror|Thriller
+408,8 Seconds ,Drama
+409,Above the Rim ,Crime|Drama
+410,Addams Family Values ,Children|Comedy|Fantasy
+411,Martin Lawrence: You So Crazy ,Comedy|Documentary
+412,"Age of Innocence, The ",Drama
+413,Airheads ,Comedy
+414,"Air Up There, The ",Comedy
+415,Another Stakeout ,Comedy|Thriller
+416,Bad Girls ,Western
+417,Barcelona ,Comedy|Romance
+418,Being Human ,Drama
+419,"Beverly Hillbillies, The ",Comedy
+420,Beverly Hills Cop III ,Action|Comedy|Crime|Thriller
+421,Black Beauty ,Adventure|Children|Drama
+422,Blink ,Thriller
+423,Blown Away ,Action|Thriller
+424,Blue Chips ,Drama
+425,Blue Sky ,Drama|Romance
+426,Body Snatchers ,Horror|Sci-Fi|Thriller
+427,Boxing Helena ,Drama|Mystery|Romance|Thriller
+428,"Bronx Tale, A ",Drama
+429,Cabin Boy ,Comedy
+430,Calendar Girl ,Comedy|Drama
+431,Carlito's Way ,Crime|Drama
+432,City Slickers II: The Legend of Curly's Gold ,Adventure|Comedy|Western
+433,Clean Slate ,Comedy
+434,Cliffhanger ,Action|Adventure|Thriller
+435,Coneheads ,Comedy|Sci-Fi
+436,Color of Night ,Drama|Thriller
+437,Cops and Robbersons ,Comedy
+438,"Cowboy Way, The ",Action|Comedy|Drama
+439,Dangerous Game ,Drama
+440,Dave ,Comedy|Romance
+441,Dazed and Confused ,Comedy
+442,Demolition Man ,Action|Adventure|Sci-Fi
+443,"Endless Summer 2, The ",Adventure|Documentary
+444,Even Cowgirls Get the Blues ,Comedy|Romance
+445,Fatal Instinct ,Comedy
+446,Farewell My Concubine ,Drama|Romance
+447,"Favor, The ",Comedy|Romance
+448,Fearless ,Drama
+449,Fear of a Black Hat ,Comedy
+450,With Honors ,Comedy|Drama
+451,Flesh and Bone ,Drama|Mystery|Romance
+452,Widows' Peak ,Drama
+453,For Love or Money ,Comedy|Romance
+454,"Firm, The ",Drama|Thriller
+455,Free Willy ,Adventure|Children|Drama
+456,Fresh ,Crime|Drama|Thriller
+457,"Fugitive, The ",Thriller
+458,Geronimo: An American Legend ,Drama|Western
+459,"Getaway, The ",Action|Adventure|Crime|Drama|Romance|Thriller
+460,Getting Even with Dad ,Comedy
+461,Go Fish ,Drama|Romance
+462,"Good Man in Africa, A ",Action|Adventure
+463,Guilty as Sin ,Crime|Drama|Thriller
+464,Hard Target ,Action|Adventure|Crime|Thriller
+465,Heaven & Earth ,Action|Drama|War
+466,Hot Shots! Part Deux ,Action|Comedy|War
+467,Live Nude Girls ,Comedy
+468,"Englishman Who Went Up a Hill But Came Down a Mountain, The ",Comedy|Romance
+469,"House of the Spirits, The ",Drama|Romance
+470,House Party 3 ,Comedy
+471,"Hudsucker Proxy, The ",Comedy
+472,I'll Do Anything ,Comedy|Drama
+473,In the Army Now ,Comedy|War
+474,In the Line of Fire ,Action|Thriller
+475,In the Name of the Father ,Drama
+476,"Inkwell, The ",Comedy|Drama
+477,What's Love Got to Do with It? ,Drama|Musical
+478,Jimmy Hollywood ,Comedy|Crime|Drama
+479,Judgment Night ,Action|Crime|Thriller
+480,Jurassic Park ,Action|Adventure|Sci-Fi|Thriller
+481,Kalifornia ,Drama|Thriller
+482,Killing Zoe ,Crime|Drama|Thriller
+483,King of the Hill ,Drama
+484,Lassie ,Adventure|Children
+485,Last Action Hero ,Action|Adventure|Comedy|Fantasy
+486,Life with Mikey ,Comedy
+487,Lightning Jack ,Comedy|Western
+488,M. Butterfly ,Drama|Romance
+489,Made in America ,Comedy
+490,Malice ,Thriller
+491,"Man Without a Face, The ",Drama
+492,Manhattan Murder Mystery ,Comedy|Mystery
+493,Menace II Society ,Action|Crime|Drama
+494,Executive Decision ,Action|Adventure|Thriller
+495,In the Realm of the Senses ,Drama
+496,What Happened Was... ,Comedy|Drama|Romance|Thriller
+497,Much Ado About Nothing ,Comedy|Romance
+498,Mr. Jones ,Drama|Romance
+499,Mr. Wonderful ,Comedy|Romance
+500,Mrs. Doubtfire ,Comedy|Drama
+501,Naked ,Drama
+502,"Next Karate Kid, The ",Action|Children|Romance
+503,"New Age, The ",Drama
+504,No Escape ,Action|Drama|Sci-Fi
+505,North ,Comedy
+506,Orlando ,Drama|Fantasy|Romance
+507,"Perfect World, A ",Crime|Drama|Thriller
+508,Philadelphia ,Drama
+509,"Piano, The ",Drama|Romance
+510,Poetic Justice ,Drama
+511,"Program, The ",Action|Drama
+512,"Puppet Masters, The ",Horror|Sci-Fi
+513,Radioland Murders ,Comedy|Mystery|Romance
+514,"Ref, The ",Comedy
+515,"Remains of the Day, The ",Drama|Romance
+516,Renaissance Man ,Comedy|Drama
+517,Rising Sun ,Action|Drama|Mystery
+518,"Road to Wellville, The ",Comedy
+519,RoboCop 3 ,Action|Crime|Drama|Sci-Fi|Thriller
+520,Robin Hood: Men in Tights ,Comedy
+521,Romeo Is Bleeding ,Crime|Thriller
+522,Romper Stomper ,Action|Drama
+523,Ruby in Paradise ,Drama
+524,Rudy ,Drama
+525,"Saint of Fort Washington, The ",Drama
+526,Savage Nights ,Drama
+527,Schindler's List ,Drama|War
+528,"Scout, The ",Comedy|Drama
+529,Searching for Bobby Fischer ,Drama
+530,Second Best ,Drama
+531,"Secret Garden, The ",Children|Drama
+532,Serial Mom ,Comedy|Crime|Horror
+533,"Shadow, The ",Action|Adventure|Fantasy|Mystery
+534,Shadowlands ,Drama|Romance
+535,Short Cuts ,Drama
+536,"Simple Twist of Fate, A ",Drama
+537,Sirens ,Drama
+538,Six Degrees of Separation ,Drama
+539,Sleepless in Seattle ,Comedy|Drama|Romance
+540,Sliver ,Thriller
+541,Blade Runner ,Action|Sci-Fi|Thriller
+542,Son in Law ,Comedy|Drama|Romance
+543,So I Married an Axe Murderer ,Comedy|Romance|Thriller
+544,Striking Distance ,Action|Crime
+546,Super Mario Bros. ,Action|Adventure|Children|Comedy|Fantasy|Sci-Fi
+547,Surviving the Game ,Action|Adventure|Thriller
+548,Terminal Velocity ,Action|Mystery|Thriller
+549,Thirty-Two Short Films About Glenn Gould ,Drama|Musical
+550,Threesome ,Comedy|Romance
+551,"Nightmare Before Christmas, The ",Animation|Children|Fantasy|Musical
+552,"Three Musketeers, The ",Action|Adventure|Comedy|Romance
+553,Tombstone ,Action|Drama|Western
+554,Trial by Jury ,Crime|Drama|Thriller
+555,True Romance ,Crime|Thriller
+556,"War Room, The ",Documentary
+558,"Pagemaster, The ",Action|Adventure|Animation|Children|Fantasy
+559,"Paris, France ",Comedy
+560,"Beans of Egypt, Maine, The ",Drama
+561,Killer ,Drama|Thriller
+562,Welcome to the Dollhouse ,Comedy|Drama
+563,Germinal ,Drama|Romance
+564,Chasers ,Comedy
+565,Cronos ,Drama|Horror
+566,Naked in New York ,Comedy|Romance
+567,Kika ,Comedy|Drama
+568,Bhaji on the Beach ,Comedy|Drama
+569,Little Big League ,Comedy|Drama
+570,"Slingshot, The ",Comedy|Drama
+571,"Wedding Gift, The ",Drama|Romance
+572,Foreign Student ,Drama
+573,"Ciao, Professore! ",Drama
+574,Spanking the Monkey ,Comedy|Drama
+575,"Little Rascals, The ",Children|Comedy
+576,Fausto ,Comedy
+577,Andre ,Adventure|Children|Drama
+579,"Escort, The ",Crime|Thriller
+580,Princess Caraboo ,Drama
+581,"Celluloid Closet, The ",Documentary
+582,Métisse ,Comedy|Drama
+583,Dear Diary ,Comedy|Drama
+584,I Don't Want to Talk About It ,Drama|Romance
+585,"Brady Bunch Movie, The ",Comedy
+586,Home Alone ,Children|Comedy
+587,Ghost ,Comedy|Drama|Fantasy|Romance|Thriller
+588,Aladdin ,Adventure|Animation|Children|Comedy|Musical
+589,Terminator 2: Judgment Day ,Action|Sci-Fi
+590,Dances with Wolves ,Adventure|Drama|Western
+591,Tough and Deadly ,Action|Drama|Thriller
+592,Batman ,Action|Crime|Thriller
+593,"Silence of the Lambs, The ",Crime|Horror|Thriller
+594,Snow White and the Seven Dwarfs ,Animation|Children|Drama|Fantasy|Musical
+595,Beauty and the Beast ,Animation|Children|Fantasy|Musical|Romance|IMAX
+596,Pinocchio ,Animation|Children|Fantasy|Musical
+597,Pretty Woman ,Comedy|Romance
+598,Window to Paris ,Comedy|Fantasy
+599,"Wild Bunch, The ",Adventure|Western
+600,Love and a .45 ,Action|Comedy|Crime
+601,"Wooden Man's Bride, The ",Drama
+602,"Great Day in Harlem, A ",Documentary
+603,"Bye Bye, Love ",Comedy
+604,Criminals ,Documentary
+605,One Fine Day ,Drama|Romance
+606,Candyman: Farewell to the Flesh ,Fantasy|Horror
+607,Century ,Drama
+608,Fargo ,Comedy|Crime|Drama|Thriller
+609,Homeward Bound II: Lost in San Francisco ,Adventure|Children
+610,Heavy Metal ,Action|Adventure|Animation|Horror|Sci-Fi
+611,Hellraiser: Bloodline ,Action|Horror|Sci-Fi
+612,"Pallbearer, The ",Comedy
+613,Jane Eyre ,Drama|Romance
+614,Loaded ,Drama|Thriller
+615,Bread and Chocolate ,Comedy|Drama
+616,"Aristocats, The ",Animation|Children
+617,"Flower of My Secret, The ",Comedy|Drama
+618,Two Much ,Comedy|Romance
+619,Ed ,Comedy
+620,Scream of Stone ,Drama
+621,My Favorite Season ,Drama
+623,"Modern Affair, A ",Romance
+625,Asfour Stah ,Drama
+626,"Thin Line Between Love and Hate, A ",Comedy
+627,"Last Supper, The ",Drama|Thriller
+628,Primal Fear ,Crime|Drama|Mystery|Thriller
+629,Rude ,Drama
+630,Carried Away ,Drama|Romance
+631,All Dogs Go to Heaven 2 ,Adventure|Animation|Children|Fantasy|Musical|Romance
+632,Land and Freedom ,Drama|War
+633,Denise Calls Up ,Comedy
+634,Theodore Rex ,Comedy
+635,"Family Thing, A ",Comedy|Drama
+636,Frisk ,Drama
+637,Sgt. Bilko ,Comedy
+638,Jack and Sarah ,Romance
+639,Girl 6 ,Comedy|Drama
+640,Diabolique ,Drama|Thriller
+641,"Little Indian, Big City ",Adventure|Children|Comedy
+642,Roula ,Drama
+643,Peanuts - Die Bank zahlt alles ,Comedy
+644,Happy Weekend ,Comedy
+645,Nelly & Monsieur Arnaud ,Drama
+647,Courage Under Fire ,Action|Crime|Drama|War
+648,Mission: Impossible ,Action|Adventure|Mystery|Thriller
+649,Cold Fever ,Comedy|Drama
+650,Moll Flanders ,Drama
+651,"Superweib, Das ",Comedy
+652,"301, 302 ",Horror|Mystery|Thriller
+653,Dragonheart ,Action|Adventure|Fantasy
+654,And Nobody Weeps for Me ,Drama|Romance
+655,My Mother's Courage ,Comedy
+656,Eddie ,Comedy
+657,Yankee Zulu ,Comedy|Drama
+658,Billy's Holiday ,Drama|Musical
+659,Purple Noon ,Crime|Drama|Thriller
+660,August ,Drama
+661,James and the Giant Peach ,Adventure|Animation|Children|Fantasy|Musical
+662,Fear ,Thriller
+663,Kids in the Hall: Brain Candy ,Comedy
+664,Faithful ,Comedy
+665,Underground ,Comedy|Drama|War
+666,All Things Fair ,Drama|Romance|War
+667,Bloodsport 2 ,Action
+668,Song of the Little Road ,Drama
+670,"World of Apu, The ",Drama
+671,Mystery Science Theater 3000: The Movie ,Comedy|Sci-Fi
+672,Tarantella ,Drama
+673,Space Jam ,Adventure|Animation|Children|Comedy|Fantasy|Sci-Fi
+674,Barbarella ,Adventure|Comedy|Sci-Fi
+675,Hostile Intentions ,Action|Drama|Thriller
+676,They Bite ,Comedy|Horror|Sci-Fi
+678,Some Folks Call It a Sling Blade ,Drama|Thriller
+679,"Run of the Country, The ",Drama
+680,Alphaville ,Drama|Mystery|Romance|Sci-Fi|Thriller
+681,Coup de torchon ,Crime
+682,Tigrero: A Film That Was Never Made ,Documentary|Drama
+683,"Eye of Vichy, The ",Documentary
+684,Windows ,Drama
+685,It's My Party ,Drama
+687,Country Life ,Drama|Romance
+688,Operation Dumbo Drop ,Action|Adventure|Comedy|War
+690,"Promise, The ",Drama|Romance
+691,Mrs. Winterbourne ,Comedy|Romance
+692,Solo ,Action|Sci-Fi|Thriller
+693,Under the Domim Tree ,Drama
+694,"Substitute, The ",Action|Crime|Drama
+695,True Crime ,Mystery|Thriller
+696,Butterfly Kiss ,Drama|Thriller
+697,Feeling Minnesota ,Drama|Romance
+698,Delta of Venus ,Drama
+699,To Cross the Rubicon ,Drama
+700,Angus ,Comedy
+701,Daens ,Drama
+702,Faces ,Drama
+703,Boys ,Drama
+704,"Quest, The ",Action|Adventure
+705,Cosi ,Comedy
+706,Sunset Park ,Drama
+707,Mulholland Falls ,Crime|Drama|Thriller
+708,"Truth About Cats & Dogs, The ",Comedy|Romance
+709,Oliver & Company ,Adventure|Animation|Children|Comedy|Musical
+710,Celtic Pride ,Comedy
+711,Flipper ,Adventure|Children
+712,Captives ,Crime|Drama|Romance|Thriller
+713,Of Love and Shadows ,Drama
+714,Dead Man ,Drama|Mystery|Western
+715,"Horseman on the Roof, The ",Drama|Romance
+716,Switchblade Sisters ,Crime
+717,Mouth to Mouth ,Comedy
+718,"Visitors, The ",Comedy|Fantasy|Sci-Fi
+719,Multiplicity ,Comedy
+720,Wallace & Gromit: The Best of Aardman Animation ,Adventure|Animation|Comedy
+721,Halfmoon ,Drama
+722,"Haunted World of Edward D. Wood Jr., The ",Documentary
+723,Two Friends ,Drama
+724,"Craft, The ",Drama|Fantasy|Horror|Thriller
+725,"Great White Hype, The ",Comedy
+726,Last Dance ,Drama
+727,War Stories ,Documentary
+728,Cold Comfort Farm ,Comedy
+729,"Institute Benjamenta, or This Dream People Call Human Life ",Drama
+730,Low Life ,Drama
+731,Heaven's Prisoners ,Crime|Thriller
+732,Original Gangstas ,Crime
+733,"Rock, The ",Action|Adventure|Thriller
+734,Getting Away With Murder ,Comedy
+735,Cemetery Man ,Horror
+736,Twister ,Action|Adventure|Romance|Thriller
+737,Barb Wire ,Action|Sci-Fi
+738,"Garçu, Le ",Drama
+739,Honey Moon ,Comedy
+741,Ghost in the Shell ,Animation|Sci-Fi
+742,Thinner ,Horror|Thriller
+743,Spy Hard ,Comedy
+744,Brothers in Trouble ,Drama
+745,Wallace & Gromit: A Close Shave ,Animation|Children|Comedy
+746,Force of Evil ,Film-Noir
+747,"Stupids, The ",Comedy
+748,"Arrival, The ",Action|Sci-Fi|Thriller
+749,"Man from Down Under, The ",Drama
+750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb ,Comedy|War
+751,Careful ,Comedy|Horror
+752,Vermont Is For Lovers ,Comedy|Documentary|Romance
+753,"Month by the Lake, A ",Comedy|Drama|Romance
+754,Gold Diggers: The Secret of Bear Mountain ,Adventure|Children
+755,Kim ,Children|Drama
+756,Carmen Miranda: Bananas Is My Business ,Documentary
+757,Ashes of Time ,Drama
+758,"Jar, The ",Drama
+759,Maya Lin: A Strong Clear Vision ,Documentary
+760,Stalingrad ,Drama|War
+761,"Phantom, The ",Action|Adventure
+762,Striptease ,Comedy|Crime
+763,"Last of the High Kings, The ",Comedy|Drama
+764,Heavy ,Drama|Romance
+765,Jack ,Comedy|Drama
+766,I Shot Andy Warhol ,Drama
+767,"Grass Harp, The ",Comedy|Drama
+768,Someone Else's America ,Drama
+769,Marlene Dietrich: Shadow and Light ,Documentary
+770,Costa Brava ,Drama
+771,Life Is Rosy ,Comedy|Drama
+772,Quartier Mozart ,Comedy
+773,Touki Bouki ,Drama
+774,Wend Kuuni ,Drama
+775,Spirits of the Dead ,Horror|Mystery
+776,Babyfever ,Comedy|Drama
+777,Pharaoh's Army ,War
+778,Trainspotting ,Comedy|Crime|Drama
+779,'Til There Was You ,Drama|Romance
+780,Independence Day ,Action|Adventure|Sci-Fi|Thriller
+781,Stealing Beauty ,Drama
+782,"Fan, The ",Drama|Thriller
+783,"Hunchback of Notre Dame, The ",Animation|Children|Drama|Musical|Romance
+784,"Cable Guy, The ",Comedy|Thriller
+785,Kingpin ,Comedy
+786,Eraser ,Action|Drama|Thriller
+787,"Gate of Heavenly Peace, The ",Documentary
+788,"Nutty Professor, The ",Comedy|Fantasy|Romance|Sci-Fi
+789,"I, the Worst of All ",Drama
+790,"Unforgettable Summer, An ",Drama
+791,"Last Klezmer: Leopold Kozlowski, His Life and Music, The ",Documentary
+792,"Hungarian Fairy Tale, A ",Fantasy
+793,My Life and Times With Antonin Artaud ,Drama
+794,Midnight Dancers ,Comedy|Drama
+795,Somebody to Love ,Drama
+796,"Very Natural Thing, A ",Drama
+797,"Old Lady Who Walked in the Sea, The ",Comedy
+798,Daylight ,Action|Adventure|Drama|Thriller
+799,"Frighteners, The ",Comedy|Horror|Thriller
+800,Lone Star ,Drama|Mystery|Western
+801,Harriet the Spy ,Children|Comedy
+802,Phenomenon ,Drama|Romance
+803,Walking and Talking ,Comedy|Drama|Romance
+804,She's the One ,Comedy|Romance
+805,"Time to Kill, A ",Drama|Thriller
+806,American Buffalo ,Crime|Drama
+807,Rendezvous in Paris ,Comedy|Romance
+808,Alaska ,Adventure|Children
+809,Fled ,Action|Adventure
+810,Kazaam ,Children|Comedy|Fantasy
+812,Magic Hunter ,Drama
+813,Larger Than Life ,Comedy
+814,"Boy Called Hate, A ",Drama
+815,Power 98 ,Action|Mystery|Thriller
+816,Two Deaths ,Drama
+818,"Very Brady Sequel, A ",Comedy
+819,Stefano Quantestorie ,Comedy|Drama
+820,Death in the Garden ,Drama
+821,"Crude Oasis, The ",Drama|Romance
+822,Hedd Wyn ,Drama|Romance|War
+823,"Collector, The ",Drama
+824,Kaspar Hauser ,Drama|Mystery
+825,Regular Guys ,Comedy|Romance
+826,Women Robbers ,Drama
+827,"Convent, The ",Drama
+828,"Adventures of Pinocchio, The ",Adventure|Children
+829,Joe's Apartment ,Comedy|Fantasy|Musical
+830,"First Wives Club, The ",Comedy
+831,Stonewall ,Drama
+832,Ransom ,Crime|Thriller
+833,High School High ,Comedy
+834,Phat Beach ,Comedy
+835,Foxfire ,Drama
+836,Chain Reaction ,Action|Adventure|Thriller
+837,Matilda ,Children|Comedy|Fantasy
+838,Emma ,Comedy|Drama|Romance
+839,"Crow: City of Angels, The ",Action|Thriller
+840,House Arrest ,Children|Comedy
+841,Eyes Without a Face ,Horror
+842,Tales from the Crypt Presents: Bordello of Blood ,Comedy|Horror
+843,Lotto Land ,Drama
+844,"Story of Xinghua, The ",Drama
+845,"Day the Sun Turned Cold, The ",Drama
+846,Flirt ,Drama
+847,"Big Squeeze, The ",Comedy|Drama
+848,"Spitfire Grill, The ",Drama
+849,Escape from L.A. ,Action|Adventure|Sci-Fi|Thriller
+850,Cyclo ,Crime|Drama
+851,Basquiat ,Drama
+852,Tin Cup ,Comedy|Drama|Romance
+853,Dingo ,Drama
+854,"Ballad of Narayama, The ",Drama
+855,Every Other Weekend ,Drama
+856,Mille bolle blu ,Comedy
+857,Crows and Sparrows ,Drama
+858,"Godfather, The ",Crime|Drama
+859,"Hippie Revolution, The ",Documentary
+860,"Maybe, Maybe Not ",Comedy
+861,Supercop ,Action|Comedy|Crime|Thriller
+862,Manny & Lo ,Drama
+864,"Wife, The ",Comedy|Drama
+865,Small Faces ,Drama
+866,Bound ,Crime|Drama|Romance|Thriller
+867,Carpool ,Comedy|Crime
+868,Death in Brunswick ,Comedy
+869,Kansas City ,Crime|Drama|Musical|Thriller
+870,Gone Fishin' ,Comedy
+871,Lover's Knot ,Comedy
+872,Vive L'Amour ,Drama
+873,Shadow of Angels ,Drama
+874,Killer: A Journal of Murder ,Crime|Drama
+875,Nothing to Lose ,Action|Crime|Drama
+876,Supercop 2 ,Action|Comedy|Crime|Thriller
+877,Girls Town ,Comedy|Drama
+878,Bye-Bye ,Drama
+879,"Relic, The ",Horror|Thriller
+880,"Island of Dr. Moreau, The ",Sci-Fi|Thriller
+881,First Kid ,Children|Comedy
+882,"Trigger Effect, The ",Drama|Thriller
+884,Sweet Nothing ,Drama
+885,Bogus ,Children|Drama|Fantasy
+886,Bulletproof ,Action|Comedy|Crime
+887,Talk of Angels ,Drama
+889,1-900 ,Drama|Romance
+890,Baton Rouge ,Thriller
+891,Halloween: The Curse of Michael Myers ,Horror|Thriller
+892,Twelfth Night ,Comedy|Drama|Romance
+893,Mother Night ,Drama
+894,Liebelei ,Romance
+895,Venice/Venice ,Drama
+896,Wild Reeds ,Drama
+897,For Whom the Bell Tolls ,Adventure|Drama|Romance|War
+898,"Philadelphia Story, The ",Comedy|Drama|Romance
+899,Singin' in the Rain ,Comedy|Musical|Romance
+900,"American in Paris, An ",Musical|Romance
+901,Funny Face ,Comedy|Musical
+902,Breakfast at Tiffany's ,Drama|Romance
+903,Vertigo ,Drama|Mystery|Romance|Thriller
+904,Rear Window ,Mystery|Thriller
+905,It Happened One Night ,Comedy|Romance
+906,Gaslight ,Drama|Thriller
+907,"Gay Divorcee, The ",Comedy|Musical|Romance
+908,North by Northwest ,Action|Adventure|Mystery|Romance|Thriller
+909,"Apartment, The ",Comedy|Drama|Romance
+910,Some Like It Hot ,Comedy|Crime
+911,Charade ,Comedy|Crime|Mystery|Romance|Thriller
+912,Casablanca ,Drama|Romance
+913,"Maltese Falcon, The ",Film-Noir|Mystery
+914,My Fair Lady ,Comedy|Drama|Musical|Romance
+915,Sabrina ,Comedy|Romance
+916,Roman Holiday ,Comedy|Drama|Romance
+917,"Little Princess, The ",Children|Drama
+918,Meet Me in St. Louis ,Musical
+919,"Wizard of Oz, The ",Adventure|Children|Fantasy|Musical
+920,Gone with the Wind ,Drama|Romance|War
+921,My Favorite Year ,Comedy
+922,Sunset Blvd. ,Drama|Film-Noir|Romance
+923,Citizen Kane ,Drama|Mystery
+924,2001: A Space Odyssey ,Adventure|Drama|Sci-Fi
+925,Golden Earrings ,Adventure|Romance|War
+926,All About Eve ,Drama
+927,"Women, The ",Comedy
+928,Rebecca ,Drama|Mystery|Romance|Thriller
+929,Foreign Correspondent ,Drama|Film-Noir|Mystery|Thriller
+930,Notorious ,Film-Noir|Romance|Thriller
+931,Spellbound ,Mystery|Romance|Thriller
+932,"Affair to Remember, An ",Drama|Romance
+933,To Catch a Thief ,Crime|Mystery|Romance|Thriller
+934,Father of the Bride ,Comedy
+935,"Band Wagon, The ",Comedy|Musical
+936,Ninotchka ,Comedy|Romance
+937,Love in the Afternoon ,Comedy|Romance
+938,Gigi ,Musical
+939,"Reluctant Debutante, The ",Comedy|Drama
+940,"Adventures of Robin Hood, The ",Action|Adventure|Romance
+941,"Mark of Zorro, The ",Adventure
+942,Laura ,Crime|Film-Noir|Mystery
+943,"Ghost and Mrs. Muir, The ",Drama|Fantasy|Romance
+944,Lost Horizon ,Drama
+945,Top Hat ,Comedy|Musical|Romance
+946,To Be or Not to Be ,Comedy|Drama|War
+947,My Man Godfrey ,Comedy|Romance
+948,Giant ,Drama|Romance|Western
+949,East of Eden ,Drama
+950,"Thin Man, The ",Comedy|Crime
+951,His Girl Friday ,Comedy|Romance
+952,Around the World in 80 Days ,Adventure|Comedy
+953,It's a Wonderful Life ,Children|Drama|Fantasy|Romance
+954,Mr. Smith Goes to Washington ,Drama
+955,Bringing Up Baby ,Comedy|Romance
+956,Penny Serenade ,Drama|Romance
+957,"Scarlet Letter, The ",Drama
+958,Lady of Burlesque ,Comedy|Mystery
+959,Of Human Bondage ,Drama
+960,Angel on My Shoulder ,Crime|Drama
+961,Little Lord Fauntleroy ,Drama
+962,They Made Me a Criminal ,Crime|Drama
+963,"Inspector General, The ",Musical
+964,Angel and the Badman ,Romance|Western
+965,"39 Steps, The ",Drama|Mystery|Thriller
+966,A Walk in the Sun ,Drama|War
+967,"Outlaw, The ",Western
+968,Night of the Living Dead ,Horror|Sci-Fi|Thriller
+969,"African Queen, The ",Adventure|Comedy|Romance|War
+970,Beat the Devil ,Adventure|Comedy|Crime|Drama|Romance
+971,Cat on a Hot Tin Roof ,Drama
+972,"Last Time I Saw Paris, The ",Drama
+973,Meet John Doe ,Comedy|Drama
+974,Algiers ,Drama|Romance
+975,Something to Sing About ,Comedy|Musical
+976,"Farewell to Arms, A ",Romance|War
+977,Moonlight Murder ,Mystery
+979,Nothing Personal ,Drama|War
+980,"Yes, Madam ",Action
+981,Dangerous Ground ,Drama
+982,Picnic ,Drama
+983,Madagascar Skin ,Romance
+984,"Pompatus of Love, The ",Comedy|Drama
+985,Small Wonders ,Documentary
+986,Fly Away Home ,Adventure|Children
+987,Bliss ,Drama|Romance
+988,Grace of My Heart ,Comedy|Drama
+989,Brother of Sleep ,Drama
+990,Maximum Risk ,Action|Adventure|Thriller
+991,Michael Collins ,Drama
+992,"Rich Man's Wife, The ",Thriller
+993,Infinity ,Drama
+994,Big Night ,Comedy|Drama
+996,Last Man Standing ,Action|Crime|Drama|Thriller
+997,Caught ,Drama|Thriller
+998,Set It Off ,Action|Crime
+999,2 Days in the Valley ,Crime|Film-Noir
+1000,Curdled ,Crime
+1001,"Associate, The ",Comedy
+1002,Ed's Next Move ,Comedy|Romance
+1003,Extreme Measures ,Drama|Thriller
+1004,"Glimmer Man, The ",Action|Thriller
+1005,D3: The Mighty Ducks ,Children|Comedy
+1006,"Chamber, The ",Drama
+1007,"Apple Dumpling Gang, The ",Children|Comedy|Western
+1008,"Davy Crockett, King of the Wild Frontier ",Adventure|Western
+1009,Escape to Witch Mountain ,Adventure|Children|Fantasy
+1010,"Love Bug, The ",Children|Comedy
+1011,Herbie Rides Again ,Children|Comedy|Fantasy|Romance
+1012,Old Yeller ,Children|Drama
+1013,"Parent Trap, The ",Children|Comedy|Romance
+1014,Pollyanna ,Children|Comedy|Drama
+1015,Homeward Bound: The Incredible Journey ,Adventure|Children|Drama
+1016,"Shaggy Dog, The ",Children|Comedy
+1017,Swiss Family Robinson ,Adventure|Children
+1018,That Darn Cat! ,Children|Comedy|Mystery
+1019,"20,000 Leagues Under the Sea ",Adventure|Drama|Sci-Fi
+1020,Cool Runnings ,Comedy
+1021,Angels in the Outfield ,Children|Comedy
+1022,Cinderella ,Animation|Children|Fantasy|Musical|Romance
+1023,Winnie the Pooh and the Blustery Day ,Animation|Children|Musical
+1024,"Three Caballeros, The ",Animation|Children|Musical
+1025,"Sword in the Stone, The ",Animation|Children|Fantasy|Musical
+1026,So Dear to My Heart ,Children|Drama
+1027,Robin Hood: Prince of Thieves ,Adventure|Drama
+1028,Mary Poppins ,Children|Comedy|Fantasy|Musical
+1029,Dumbo ,Animation|Children|Drama|Musical
+1030,Pete's Dragon ,Adventure|Animation|Children|Musical
+1031,Bedknobs and Broomsticks ,Adventure|Children|Musical
+1032,Alice in Wonderland ,Adventure|Animation|Children|Fantasy|Musical
+1033,"Fox and the Hound, The ",Animation|Children|Drama
+1034,Freeway ,Comedy|Crime|Drama|Thriller
+1035,"Sound of Music, The ",Musical|Romance
+1036,Die Hard ,Action|Crime|Thriller
+1037,"Lawnmower Man, The ",Action|Horror|Sci-Fi|Thriller
+1038,Unhook the Stars ,Drama
+1039,Synthetic Pleasures ,Documentary
+1040,"Secret Agent, The ",Drama
+1041,Secrets & Lies ,Drama
+1042,That Thing You Do! ,Comedy|Drama
+1043,To Gillian on Her 37th Birthday ,Drama|Romance
+1044,Surviving Picasso ,Drama
+1045,Love Is All There Is ,Comedy|Drama
+1046,Beautiful Thing ,Drama|Romance
+1047,"Long Kiss Goodnight, The ",Action|Drama|Thriller
+1049,"Ghost and the Darkness, The ",Action|Adventure
+1050,Looking for Richard ,Documentary|Drama
+1051,Trees Lounge ,Drama
+1052,"Proprietor, The ",Drama
+1053,Normal Life ,Crime|Drama|Romance
+1054,Get on the Bus ,Drama
+1055,Shadow Conspiracy ,Thriller
+1056,Jude ,Drama
+1057,Everyone Says I Love You ,Comedy|Musical|Romance
+1058,Bitter Sugar ,Drama
+1059,William Shakespeare's Romeo + Juliet ,Drama|Romance
+1060,Swingers ,Comedy|Drama
+1061,Sleepers ,Thriller
+1062,"Sunchaser, The ",Drama
+1063,Johns ,Drama
+1065,Five Angles on Murder ,Mystery
+1066,Shall We Dance ,Comedy|Musical|Romance
+1067,"Damsel in Distress, A ",Comedy|Musical|Romance
+1068,Crossfire ,Crime|Film-Noir
+1069,"Murder, My Sweet ",Crime|Film-Noir|Thriller
+1070,Macao ,Adventure
+1071,For the Moment ,Romance|War
+1073,Willy Wonka & the Chocolate Factory ,Children|Comedy|Fantasy|Musical
+1075,"Sexual Life of the Belgians, The ",Comedy|Romance
+1076,"Innocents, The ",Drama|Horror|Thriller
+1077,Sleeper ,Comedy|Sci-Fi
+1078,Bananas ,Comedy|War
+1079,"Fish Called Wanda, A ",Comedy|Crime
+1080,Monty Python's Life of Brian ,Comedy
+1081,Victor/Victoria ,Comedy|Musical|Romance
+1082,"Candidate, The ",Drama
+1083,"Great Race, The ",Comedy|Musical
+1084,Bonnie and Clyde ,Crime|Drama
+1085,"Old Man and the Sea, The ",Adventure|Drama
+1086,Dial M for Murder ,Crime|Mystery|Thriller
+1087,Madame Butterfly ,Musical
+1088,Dirty Dancing ,Drama|Musical|Romance
+1089,Reservoir Dogs ,Crime|Mystery|Thriller
+1090,Platoon ,Drama|War
+1091,Weekend at Bernie's ,Comedy
+1092,Basic Instinct ,Crime|Mystery|Thriller
+1093,"Doors, The ",Drama
+1094,"Crying Game, The ",Drama|Romance|Thriller
+1095,Glengarry Glen Ross ,Drama
+1096,Sophie's Choice ,Drama
+1097,E.T. the Extra-Terrestrial ,Children|Drama|Sci-Fi
+1098,"Search for One-eye Jimmy, The ",Comedy
+1099,"Christmas Carol, A ",Children|Drama|Fantasy
+1100,Days of Thunder ,Action|Drama|Romance
+1101,Top Gun ,Action|Romance
+1102,American Strays ,Action
+1103,Rebel Without a Cause ,Drama
+1104,"Streetcar Named Desire, A ",Drama
+1105,Children of the Corn IV: The Gathering ,Horror
+1106,"Leopard Son, The ",Documentary
+1107,Loser ,Comedy
+1109,Charm's Incidents ,Drama
+1110,Bird of Prey ,Action
+1111,Microcosmos ,Documentary
+1112,Palookaville ,Action|Comedy|Drama
+1113,"Associate, The ",Comedy
+1114,"Funeral, The ",Crime|Drama
+1115,Sleepover ,Drama
+1116,"Single Girl, A ",Drama
+1117,"Eighth Day, The ",Drama
+1118,North Star ,Action|Adventure|Crime|Drama|Western
+1119,Drunks ,Drama
+1120,"People vs. Larry Flynt, The ",Comedy|Drama
+1121,Glory Daze ,Drama
+1122,Plutonium Circus ,Documentary
+1123,"Perfect Candidate, A ",Documentary
+1124,On Golden Pond ,Drama
+1125,"Return of the Pink Panther, The ",Comedy|Crime
+1126,Drop Dead Fred ,Comedy|Fantasy
+1127,"Abyss, The ",Action|Adventure|Sci-Fi|Thriller
+1128,"Fog, The ",Horror
+1129,Escape from New York ,Action|Adventure|Sci-Fi|Thriller
+1130,"Howling, The ",Horror|Mystery
+1131,Jean de Florette ,Drama|Mystery
+1132,Manon of the Spring ,Drama
+1133,Talking About Sex ,Comedy|Drama
+1134,Johnny 100 Pesos ,Action|Drama
+1135,Private Benjamin ,Comedy
+1136,Monty Python and the Holy Grail ,Adventure|Comedy|Fantasy
+1137,Hustler White ,Romance
+1138,Dadetown ,Drama
+1139,Everything Relative ,Drama
+1140,Entertaining Angels: The Dorothy Day Story ,Drama
+1141,Last Call ,Drama
+1142,Get Over It ,Drama
+1143,Three Lives and Only One Death ,Comedy
+1144,"Line King: The Al Hirschfeld Story, The ",Documentary
+1145,Snowriders ,Documentary
+1146,Curtis's Charm ,Comedy|Drama
+1147,When We Were Kings ,Documentary
+1148,Wallace & Gromit: The Wrong Trousers ,Animation|Children|Comedy|Crime
+1149,JLG/JLG ,Documentary|Drama
+1150,"Return of Martin Guerre, The ",Drama
+1151,Lesson Faust ,Animation|Comedy|Drama|Fantasy
+1152,He Walked by Night ,Crime|Film-Noir|Thriller
+1153,Raw Deal ,Film-Noir
+1154,T-Men ,Film-Noir
+1155,"Invitation, The ",Drama
+1156,"Children Are Watching Us, The ",Drama
+1157,"Symphonie pastorale, La ",Drama
+1158,Here Comes Cookie ,Comedy
+1159,Love in Bloom ,Romance
+1160,Six of a Kind ,Comedy
+1161,"Tin Drum, The ",Drama|War
+1162,"Ruling Class, The ",Comedy|Drama
+1163,Mina Tannenbaum ,Drama
+1164,2 ou 3 choses que je sais d'elle ,Drama
+1165,"Bloody Child, The ",Drama|Thriller
+1166,Farmer & Chase ,Comedy
+1167,Dear God ,Comedy
+1168,Bad Moon ,Action|Adventure|Horror
+1169,American Dream ,Documentary
+1170,Best of the Best 3: No Turning Back ,Action
+1171,Bob Roberts ,Comedy
+1172,Cinema Paradiso ,Drama
+1173,"Cook the Thief His Wife & Her Lover, The ",Comedy|Drama
+1174,Dead Tired ,Comedy
+1175,Delicatessen ,Comedy|Drama|Romance
+1176,"Double Life of Veronique, The ",Drama|Fantasy|Romance
+1177,Enchanted April ,Drama|Romance
+1178,Paths of Glory ,Drama|War
+1179,"Grifters, The ",Crime|Drama|Film-Noir
+1180,Hear My Song ,Comedy
+1181,"Shooter, The ",Western
+1183,"English Patient, The ",Drama|Romance|War
+1184,Mediterraneo ,Comedy|Drama
+1185,My Left Foot ,Drama
+1186,"Sex, Lies, and Videotape ",Drama
+1187,Passion Fish ,Drama
+1188,Strictly Ballroom ,Comedy|Romance
+1189,"Thin Blue Line, The ",Documentary
+1190,Tie Me Up! Tie Me Down! ,Crime|Drama|Romance
+1191,Madonna: Truth or Dare ,Documentary|Musical
+1192,Paris Is Burning ,Documentary
+1193,One Flew Over the Cuckoo's Nest ,Drama
+1194,Cheech and Chong's Up in Smoke ,Comedy
+1196,Star Wars: Episode V - The Empire Strikes Back ,Action|Adventure|Sci-Fi
+1197,"Princess Bride, The ",Action|Adventure|Comedy|Fantasy|Romance
+1198,Raiders of the Lost Ark ,Action|Adventure
+1199,Brazil ,Fantasy|Sci-Fi
+1200,Aliens ,Action|Adventure|Horror|Sci-Fi
+1201,"Good, the Bad and the Ugly, The ",Action|Adventure|Western
+1202,Withnail & I ,Comedy
+1203,12 Angry Men ,Drama
+1204,Lawrence of Arabia ,Adventure|Drama|War
+1206,"Clockwork Orange, A ",Crime|Drama|Sci-Fi|Thriller
+1207,To Kill a Mockingbird ,Drama
+1208,Apocalypse Now ,Action|Drama|War
+1209,Once Upon a Time in the West ,Action|Drama|Western
+1210,Star Wars: Episode VI - Return of the Jedi ,Action|Adventure|Sci-Fi
+1211,Wings of Desire ,Drama|Fantasy|Romance
+1212,"Third Man, The ",Film-Noir|Mystery|Thriller
+1213,Goodfellas ,Crime|Drama
+1214,Alien ,Horror|Sci-Fi
+1215,Army of Darkness ,Action|Adventure|Comedy|Fantasy|Horror
+1216,"Big Blue, The ",Adventure|Drama|Romance
+1217,Ran ,Drama|War
+1218,"Killer, The ",Action|Crime|Drama|Thriller
+1219,Psycho ,Crime|Horror
+1220,"Blues Brothers, The ",Action|Comedy|Musical
+1221,"Godfather: Part II, The ",Crime|Drama
+1222,Full Metal Jacket ,Drama|War
+1223,"Grand Day Out with Wallace and Gromit, A ",Adventure|Animation|Children|Comedy|Sci-Fi
+1224,Henry V ,Action|Drama|Romance|War
+1225,Amadeus ,Drama
+1226,"Quiet Man, The ",Drama|Romance
+1227,Once Upon a Time in America ,Crime|Drama
+1228,Raging Bull ,Drama
+1230,Annie Hall ,Comedy|Romance
+1231,"Right Stuff, The ",Drama
+1232,Stalker ,Drama|Mystery|Sci-Fi
+1233,"Boot, Das ",Action|Drama|War
+1234,"Sting, The ",Comedy|Crime
+1235,Harold and Maude ,Comedy|Drama|Romance
+1236,Trust ,Comedy|Drama|Romance
+1237,"Seventh Seal, The ",Drama
+1238,Local Hero ,Comedy
+1240,"Terminator, The ",Action|Sci-Fi|Thriller
+1241,Dead Alive ,Comedy|Fantasy|Horror
+1242,Glory ,Drama|War
+1243,Rosencrantz and Guildenstern Are Dead ,Comedy|Drama
+1244,Manhattan ,Comedy|Drama|Romance
+1245,Miller's Crossing ,Crime|Drama|Film-Noir|Thriller
+1246,Dead Poets Society ,Drama
+1247,"Graduate, The ",Comedy|Drama|Romance
+1248,Touch of Evil ,Crime|Film-Noir|Thriller
+1249,"Femme Nikita, La ",Action|Crime|Romance|Thriller
+1250,"Bridge on the River Kwai, The ",Adventure|Drama|War
+1251,8 1/2,Drama|Fantasy
+1252,Chinatown ,Crime|Film-Noir|Mystery|Thriller
+1253,"Day the Earth Stood Still, The ",Drama|Sci-Fi|Thriller
+1254,"Treasure of the Sierra Madre, The ",Action|Adventure|Drama|Western
+1255,Bad Taste ,Comedy|Horror|Sci-Fi
+1256,Duck Soup ,Comedy|Musical|War
+1257,Better Off Dead... ,Comedy|Romance
+1258,"Shining, The ",Horror
+1259,Stand by Me ,Adventure|Drama
+1260,M ,Crime|Film-Noir|Thriller
+1261,Evil Dead II ,Action|Comedy|Fantasy|Horror
+1262,"Great Escape, The ",Action|Adventure|Drama|War
+1263,"Deer Hunter, The ",Drama|War
+1264,Diva ,Action|Drama|Mystery|Romance|Thriller
+1265,Groundhog Day ,Comedy|Fantasy|Romance
+1266,Unforgiven ,Drama|Western
+1267,"Manchurian Candidate, The ",Crime|Thriller|War
+1268,Pump Up the Volume ,Comedy|Drama
+1269,Arsenic and Old Lace ,Comedy|Mystery|Thriller
+1270,Back to the Future ,Adventure|Comedy|Sci-Fi
+1271,Fried Green Tomatoes ,Comedy|Crime|Drama
+1272,Patton ,Drama|War
+1273,Down by Law ,Comedy|Drama|Film-Noir
+1274,Akira ,Action|Adventure|Animation|Sci-Fi
+1275,Highlander ,Action|Adventure|Fantasy
+1276,Cool Hand Luke ,Drama
+1277,Cyrano de Bergerac ,Comedy|Drama|Romance
+1278,Young Frankenstein ,Comedy|Fantasy
+1279,Night on Earth ,Comedy|Drama
+1280,Raise the Red Lantern ,Drama
+1281,"Great Dictator, The ",Comedy|Drama|War
+1282,Fantasia ,Animation|Children|Fantasy|Musical
+1283,High Noon ,Drama|Western
+1284,"Big Sleep, The ",Crime|Film-Noir|Mystery
+1285,Heathers ,Comedy
+1286,Somewhere in Time ,Drama|Romance
+1287,Ben-Hur ,Action|Adventure|Drama
+1288,This Is Spinal Tap ,Comedy
+1289,Koyaanisqatsi ,Documentary
+1290,Some Kind of Wonderful ,Drama|Romance
+1291,Indiana Jones and the Last Crusade ,Action|Adventure
+1292,Being There ,Comedy|Drama
+1293,Gandhi ,Drama
+1295,"Unbearable Lightness of Being, The ",Drama
+1296,"Room with a View, A ",Drama|Romance
+1297,Real Genius ,Comedy
+1298,Pink Floyd: The Wall ,Drama|Musical
+1299,"Killing Fields, The ",Drama|War
+1300,My Life as a Dog ,Comedy|Drama
+1301,Forbidden Planet ,Drama|Sci-Fi
+1302,Field of Dreams ,Children|Drama|Fantasy
+1303,"Man Who Would Be King, The ",Adventure|Drama
+1304,Butch Cassidy and the Sundance Kid ,Action|Western
+1305,"Paris, Texas ",Drama|Romance
+1306,Until the End of the World ,Adventure|Drama|Sci-Fi
+1307,When Harry Met Sally... ,Comedy|Romance
+1308,I Shot a Man in Vegas ,Comedy
+1309,Parallel Sons ,Drama|Romance
+1310,Hype! ,Documentary
+1311,Santa with Muscles ,Comedy
+1312,Female Perversions ,Drama
+1313,Mad Dog Time ,Crime
+1314,Breathing Room ,Romance
+1315,Paris Was a Woman ,Documentary
+1316,Anna ,Drama
+1317,I'm Not Rappaport ,Comedy
+1318,Blue Juice ,Comedy|Drama
+1319,Kids of Survival ,Documentary
+1320,Alien³ ,Action|Horror|Sci-Fi|Thriller
+1321,"American Werewolf in London, An ",Comedy|Horror|Thriller
+1322,Amityville 1992: It's About Time ,Horror
+1323,Amityville 3-D ,Horror
+1324,Amityville: Dollhouse ,Horror
+1325,Amityville: A New Generation ,Horror
+1326,Amityville II: The Possession ,Horror
+1327,"Amityville Horror, The ",Drama|Horror|Mystery|Thriller
+1328,"Amityville Curse, The ",Horror
+1329,Blood for Dracula ,Horror
+1330,April Fool's Day ,Horror
+1331,Audrey Rose ,Horror
+1332,"Believers, The ",Horror|Thriller
+1333,"Birds, The ",Horror|Thriller
+1334,"Blob, The ",Horror|Sci-Fi
+1335,Blood Beach ,Horror|Mystery
+1336,Body Parts ,Horror|Thriller
+1337,"Body Snatcher, The ",Drama|Horror|Thriller
+1339,Dracula ,Fantasy|Horror|Romance|Thriller
+1340,"Bride of Frankenstein, The ",Drama|Horror|Sci-Fi
+1341,Burnt Offerings ,Horror
+1342,Candyman ,Horror|Thriller
+1343,Cape Fear ,Thriller
+1344,Cape Fear ,Crime|Drama|Thriller
+1345,Carrie ,Drama|Fantasy|Horror|Thriller
+1346,Cat People ,Drama|Fantasy|Horror
+1347,"Nightmare on Elm Street, A ",Horror|Thriller
+1348,Nosferatu ,Horror
+1349,Vampire in Venice ,Horror
+1350,"Omen, The ",Horror|Mystery|Thriller
+1351,Blood and Wine ,Crime|Drama|Thriller
+1352,Albino Alligator ,Crime|Thriller
+1353,"Mirror Has Two Faces, The ",Comedy|Drama|Romance
+1354,Breaking the Waves ,Drama|Mystery
+1355,Nightwatch ,Horror|Thriller
+1356,Star Trek: First Contact ,Action|Adventure|Sci-Fi|Thriller
+1357,Shine ,Drama|Romance
+1358,Sling Blade ,Drama
+1359,Jingle All the Way ,Children|Comedy
+1360,Identification of a Woman ,Drama
+1361,Paradise Lost: The Child Murders at Robin Hood Hills ,Documentary
+1363,"Preacher's Wife, The ",Drama
+1364,Zero Kelvin ,Drama
+1365,Ridicule ,Drama
+1366,"Crucible, The ",Drama
+1367,101 Dalmatians ,Adventure|Children|Comedy
+1368,"Forbidden Christ, The ",Drama
+1369,I Can't Sleep ,Drama|Thriller
+1370,Die Hard 2 ,Action|Adventure|Thriller
+1371,Star Trek: The Motion Picture ,Adventure|Sci-Fi
+1372,Star Trek VI: The Undiscovered Country ,Action|Mystery|Sci-Fi
+1373,Star Trek V: The Final Frontier ,Action|Sci-Fi
+1374,Star Trek II: The Wrath of Khan ,Action|Adventure|Sci-Fi|Thriller
+1375,Star Trek III: The Search for Spock ,Action|Adventure|Sci-Fi
+1376,Star Trek IV: The Voyage Home ,Adventure|Comedy|Sci-Fi
+1377,Batman Returns ,Action|Crime
+1378,Young Guns ,Action|Comedy|Western
+1379,Young Guns II ,Action|Western
+1380,Grease ,Comedy|Musical|Romance
+1381,Grease 2 ,Comedy|Musical|Romance
+1382,Marked for Death ,Action|Drama
+1383,Adrenalin: Fear the Rush ,Action|Sci-Fi
+1384,"Substance of Fire, The ",Drama
+1385,Under Siege ,Action|Drama|Thriller
+1386,Terror in a Texas Town ,Western
+1387,Jaws ,Action|Horror
+1388,Jaws 2 ,Horror|Thriller
+1389,Jaws 3-D ,Action|Horror
+1390,My Fellow Americans ,Comedy
+1391,Mars Attacks! ,Action|Comedy|Sci-Fi
+1392,Citizen Ruth ,Comedy|Drama
+1393,Jerry Maguire ,Drama|Romance
+1394,Raising Arizona ,Comedy
+1395,Tin Men ,Comedy|Drama
+1396,Sneakers ,Action|Comedy|Crime|Drama|Sci-Fi
+1397,Bastard Out of Carolina ,Drama
+1398,In Love and War ,Romance|War
+1399,Marvin's Room ,Drama
+1400,Somebody is Waiting ,Drama
+1401,Ghosts of Mississippi ,Drama
+1404,Night Falls on Manhattan ,Crime|Drama
+1405,Beavis and Butt-Head Do America ,Adventure|Animation|Comedy|Crime
+1406,La Cérémonie ,Crime|Drama|Mystery|Thriller
+1407,Scream ,Comedy|Horror|Mystery|Thriller
+1408,"Last of the Mohicans, The ",Action|Romance|War|Western
+1409,Michael ,Comedy|Drama|Fantasy|Romance
+1410,"Evening Star, The ",Comedy|Drama
+1411,Hamlet ,Crime|Drama|Romance
+1412,Some Mother's Son ,Drama
+1413,"Whole Wide World, The ",Drama
+1414,Mother ,Comedy
+1415,Thieves ,Crime|Drama|Romance
+1416,Evita ,Drama|Musical
+1417,"Portrait of a Lady, The ",Drama
+1419,Walkabout ,Adventure|Drama
+1420,Message to Love: The Isle of Wight Festival ,Documentary
+1421,Grateful Dead ,Documentary
+1422,Murder at 1600 ,Crime|Drama|Mystery|Thriller
+1423,Hearts and Minds ,Drama
+1424,Inside ,Action
+1425,Fierce Creatures ,Comedy
+1426,Zeus and Roxanne ,Children
+1427,Turbulence ,Action|Thriller
+1428,Angel Baby ,Drama
+1429,First Strike ,Action|Adventure|Comedy|Thriller
+1430,Underworld ,Comedy|Thriller
+1431,Beverly Hills Ninja ,Action|Comedy
+1432,Metro ,Action|Comedy|Crime|Drama|Thriller
+1433,The Machine ,Horror|Sci-Fi|Thriller
+1434,"Stranger, The ",Action
+1436,Falling in Love Again ,Comedy
+1437,"Cement Garden, The ",Drama
+1438,Dante's Peak ,Action|Thriller
+1439,Meet Wally Sparks ,Comedy
+1440,Amos & Andrew ,Comedy
+1441,Benny & Joon ,Comedy|Romance
+1442,Prefontaine ,Drama
+1443,"Tickle in the Heart, A ",Documentary
+1444,Guantanamera ,Comedy
+1445,McHale's Navy ,Comedy|War
+1446,Kolya ,Comedy|Drama
+1447,Gridlock'd ,Crime
+1448,Fire on the Mountain ,Documentary
+1449,Waiting for Guffman ,Comedy
+1450,Prisoner of the Mountains ,War
+1453,"Beautician and the Beast, The ",Comedy|Romance
+1454,SubUrbia ,Comedy|Drama
+1455,Hotel de Love ,Comedy|Romance
+1456,"Pest, The ",Comedy
+1457,Fools Rush In ,Comedy|Drama|Romance
+1458,Touch ,Drama|Fantasy|Romance
+1459,Absolute Power ,Mystery|Thriller
+1460,That Darn Cat ,Children|Comedy|Mystery
+1461,Vegas Vacation ,Comedy
+1462,Unforgotten: Twenty-Five Years After Willowbrook ,Documentary
+1463,That Old Feeling ,Comedy|Romance
+1464,Lost Highway ,Crime|Drama|Fantasy|Film-Noir|Mystery|Romance
+1465,Rosewood ,Action|Drama
+1466,Donnie Brasco ,Crime|Drama
+1467,Salut cousin! ,Comedy|Drama
+1468,Booty Call ,Comedy|Romance
+1470,Rhyme & Reason ,Documentary
+1471,Boys Life 2 ,Drama
+1472,City of Industry ,Crime|Thriller
+1473,Best Men ,Action|Comedy|Crime|Drama
+1474,Jungle2Jungle ,Children|Comedy
+1475,Kama Sutra: A Tale of Love ,Romance
+1476,Private Parts ,Comedy|Drama
+1477,Love Jones ,Romance
+1479,"Saint, The ",Action|Romance|Sci-Fi|Thriller
+1480,Smilla's Sense of Snow ,Drama|Thriller
+1482,"Van, The ",Comedy|Drama
+1483,Crash ,Drama|Thriller
+1484,"Daytrippers, The ",Comedy|Drama|Mystery|Romance
+1485,Liar Liar ,Comedy
+1486,"Quiet Room, The ",Drama
+1487,Selena ,Drama|Musical
+1488,"Devil's Own, The ",Action|Drama|Thriller
+1489,Cats Don't Dance ,Animation|Children|Musical
+1490,B*A*P*S ,Comedy
+1493,Love and Other Catastrophes ,Romance
+1495,Turbo: A Power Rangers Movie ,Action|Adventure|Children
+1496,Anna Karenina ,Drama|Romance
+1497,Double Team ,Action
+1498,Inventing the Abbotts ,Drama|Romance
+1499,Anaconda ,Action|Adventure|Thriller
+1500,Grosse Pointe Blank ,Comedy|Crime|Romance
+1501,Keys to Tulsa ,Crime
+1502,Kissed ,Drama|Romance
+1503,8 Heads in a Duffel Bag ,Comedy
+1504,Hollow Reed ,Drama
+1507,Paradise Road ,Drama|War
+1508,Traveller ,Drama
+1509,All Over Me ,Drama
+1510,"Brother's Kiss, A ",Drama
+1511,"Chef in Love, A ",Comedy|Romance
+1513,Romy and Michele's High School Reunion ,Comedy
+1514,Temptress Moon ,Romance
+1515,Volcano ,Action|Drama|Thriller
+1516,Children of the Revolution ,Comedy
+1517,Austin Powers: International Man of Mystery ,Action|Adventure|Comedy
+1518,Breakdown ,Action|Thriller
+1519,Broken English ,Drama
+1520,Commandments ,Romance
+1522,Ripe ,Drama
+1523,"Truth or Consequences, N.M. ",Action|Crime|Romance
+1524,"Turning, The ",Drama
+1525,Warriors of Virtue ,Action|Adventure|Children|Fantasy
+1526,Fathers' Day ,Comedy
+1527,"Fifth Element, The ",Action|Adventure|Comedy|Sci-Fi
+1528,Intimate Relations ,Comedy
+1529,Nowhere ,Comedy|Drama
+1531,Losing Chase ,Drama
+1532,Sprung ,Comedy
+1533,"Promise, The ",Drama
+1534,"Bonheur, Le ",Drama
+1535,Love! Valour! Compassion! ,Drama|Romance
+1537,Shall We Dance? ,Comedy|Drama|Romance
+1538,"Second Jungle Book: Mowgli & Baloo, The ",Adventure|Children
+1539,Twin Town ,Comedy|Crime
+1541,Addicted to Love ,Comedy|Romance
+1542,Brassed Off ,Comedy|Drama|Romance
+1543,"Designated Mourner, The ",Drama
+1544,"Lost World: Jurassic Park, The ",Action|Adventure|Sci-Fi|Thriller
+1545,Ponette ,Drama
+1546,Schizopolis ,Comedy
+1547,Shiloh ,Children|Drama
+1548,"War at Home, The ",Drama
+1549,Rough Magic ,Drama|Romance
+1550,Trial and Error ,Comedy|Romance
+1551,Buddy ,Adventure|Children|Drama
+1552,Con Air ,Action|Adventure|Thriller
+1553,Late Bloomers ,Comedy
+1554,"Pillow Book, The ",Drama|Romance
+1555,"To Have, or Not ",Drama
+1556,Speed 2: Cruise Control ,Action|Romance|Thriller
+1557,Squeeze ,Drama
+1558,Sudden Manhattan ,Comedy
+1559,"Next Step, The ",Drama
+1561,Wedding Bell Blues ,Comedy
+1562,Batman & Robin ,Action|Adventure|Fantasy|Thriller
+1563,Dream With the Fishes ,Drama
+1564,For Roseanna ,Comedy|Drama|Romance
+1565,Head Above Water ,Comedy|Thriller
+1566,Hercules ,Adventure|Animation|Children|Comedy|Musical
+1567,The Last Time I Committed Suicide ,Drama
+1568,MURDER and murder ,Crime|Drama|Mystery
+1569,My Best Friend's Wedding ,Comedy|Romance
+1570,Tetsuo II: Body Hammer ,Horror|Sci-Fi
+1571,When the Cat's Away ,Comedy|Romance
+1572,Contempt ,Drama
+1573,Face/Off ,Action|Crime|Drama|Thriller
+1574,Fall ,Romance
+1575,Gabbeh ,Drama
+1577,Mondo ,Drama
+1578,"Innocent Sleep, The ",Crime
+1579,For Ever Mozart ,Drama
+1580,Men in Black ,Action|Comedy|Sci-Fi
+1581,Out to Sea ,Comedy
+1582,Wild America ,Adventure|Children
+1583,"Simple Wish, A ",Children|Fantasy
+1584,Contact ,Drama|Sci-Fi
+1585,Love Serenade ,Comedy
+1586,G.I. Jane ,Action|Drama
+1587,Conan the Barbarian ,Action|Adventure|Fantasy
+1588,George of the Jungle ,Children|Comedy
+1589,Cop Land ,Action|Crime|Drama|Thriller
+1590,Event Horizon ,Horror|Sci-Fi|Thriller
+1591,Spawn ,Action|Adventure|Sci-Fi|Thriller
+1592,Air Bud ,Children|Comedy
+1593,Picture Perfect ,Comedy|Romance
+1594,In the Company of Men ,Comedy|Drama
+1595,Free Willy 3: The Rescue ,Adventure|Children|Drama
+1596,Career Girls ,Drama
+1597,Conspiracy Theory ,Drama|Mystery|Romance|Thriller
+1598,Desperate Measures ,Crime|Drama|Thriller
+1599,Steel ,Action
+1600,She's So Lovely ,Drama|Romance
+1601,Hoodlum ,Crime|Drama|Film-Noir
+1602,Leave It to Beaver ,Comedy
+1603,Mimic ,Horror|Sci-Fi|Thriller
+1604,Money Talks ,Action|Comedy
+1605,Excess Baggage ,Adventure|Romance
+1606,Kull the Conqueror ,Action|Adventure
+1608,Air Force One ,Action|Thriller
+1609,187,Drama|Thriller
+1610,"Hunt for Red October, The ",Action|Adventure|Thriller
+1611,My Own Private Idaho ,Drama|Romance
+1612,"Kiss Me, Guido ",Comedy
+1613,Star Maps ,Drama
+1614,In & Out ,Comedy
+1615,"Edge, The ",Adventure|Drama
+1616,"Peacemaker, The ",Action|Thriller|War
+1617,L.A. Confidential ,Crime|Film-Noir|Mystery|Thriller
+1619,Seven Years in Tibet ,Adventure|Drama|War
+1620,Kiss the Girls ,Crime|Drama|Mystery|Thriller
+1621,Soul Food ,Drama
+1622,Kicked in the Head ,Comedy|Drama
+1623,Wishmaster ,Horror
+1624,"Thousand Acres, A ",Drama
+1625,"Game, The ",Drama|Mystery|Thriller
+1626,Fire Down Below ,Action|Drama|Thriller
+1627,U Turn ,Crime|Drama|Mystery
+1628,"Locusts, The ",Drama
+1629,"MatchMaker, The ",Comedy|Romance
+1630,"Lay of the Land, The ",Comedy|Drama
+1631,"Assignment, The ",Action|Thriller
+1632,"Smile Like Yours, A ",Comedy|Romance
+1633,Ulee's Gold ,Drama
+1635,"Ice Storm, The ",Drama
+1636,Stag ,Action|Thriller
+1639,Chasing Amy ,Comedy|Drama|Romance
+1640,How to Be a Player ,Comedy
+1641,"Full Monty, The ",Comedy|Drama
+1642,Indian Summer ,Comedy|Drama
+1643,Mrs. Brown ,Drama|Romance
+1644,I Know What You Did Last Summer ,Horror|Mystery|Thriller
+1645,The Devil's Advocate ,Drama|Mystery|Thriller
+1646,RocketMan ,Children|Comedy|Romance|Sci-Fi
+1647,Playing God ,Crime|Drama|Thriller
+1648,"House of Yes, The ",Comedy|Drama
+1649,"Fast, Cheap & Out of Control ",Documentary
+1650,Washington Square ,Drama
+1651,Telling Lies in America ,Drama
+1652,Year of the Horse ,Documentary
+1653,Gattaca ,Drama|Sci-Fi|Thriller
+1654,FairyTale: A True Story ,Children|Drama|Fantasy
+1655,Phantoms ,Drama|Horror|Thriller
+1656,Swept from the Sea ,Drama|Romance
+1657,Wonderland ,Comedy|Documentary
+1658,"Life Less Ordinary, A ",Romance|Thriller
+1659,Hurricane Streets ,Drama
+1660,Eve's Bayou ,Drama
+1661,Switchback ,Crime|Mystery|Thriller
+1662,Gang Related ,Crime
+1663,Stripes ,Comedy|War
+1664,Nenette and Boni ,Drama
+1665,Bean ,Comedy
+1666,Hugo Pool ,Romance
+1667,Mad City ,Action|Drama
+1668,One Night Stand ,Drama
+1669,"Tango Lesson, The ",Romance
+1670,Welcome to Sarajevo ,Drama|War
+1671,Deceiver ,Crime|Drama|Thriller
+1672,"Rainmaker, The ",Drama
+1673,Boogie Nights ,Drama
+1674,Witness ,Drama|Romance|Thriller
+1675,Incognito ,Crime|Thriller
+1676,Starship Troopers ,Action|Sci-Fi
+1677,Critical Care ,Comedy|Drama
+1678,"Joy Luck Club, The ",Drama|Romance
+1679,Chairman of the Board ,Comedy
+1680,Sliding Doors ,Drama|Romance
+1681,Mortal Kombat: Annihilation ,Action|Adventure|Fantasy
+1682,"Truman Show, The ",Comedy|Drama|Sci-Fi
+1683,"Wings of the Dove, The ",Drama|Romance
+1684,Mrs. Dalloway ,Drama|Romance
+1685,"I Love You, I Love You Not ",Drama|Romance
+1686,Red Corner ,Crime|Thriller
+1687,"Jackal, The ",Action|Thriller
+1688,Anastasia ,Adventure|Animation|Children|Drama|Musical
+1689,"Man Who Knew Too Little, The ",Comedy|Crime|Thriller
+1690,Alien: Resurrection ,Action|Horror|Sci-Fi
+1692,Alien Escape ,Horror|Sci-Fi
+1693,Amistad ,Drama|Mystery
+1694,"Apostle, The ",Drama
+1695,Artemisia ,Drama
+1696,Bent ,Drama|War
+1697,Bang ,Crime|Drama
+1698,"Boys, Les ",Comedy
+1699,"Butcher Boy, The ",Comedy|Drama
+1701,Deconstructing Harry ,Comedy|Drama
+1702,Flubber ,Children|Comedy|Fantasy
+1703,For Richer or Poorer ,Comedy
+1704,Good Will Hunting ,Drama|Romance
+1705,Guy ,Drama
+1706,Tar ,Drama
+1707,Home Alone 3 ,Children|Comedy
+1708,Ill Gotten Gains ,Drama
+1709,Legal Deceit ,Thriller
+1711,Midnight in the Garden of Good and Evil ,Crime|Drama|Mystery
+1713,Mouse Hunt ,Children|Comedy
+1714,Never Met Picasso ,Romance
+1715,Office Killer ,Thriller
+1716,"Other Voices, Other Rooms ",Drama
+1717,Scream 2 ,Comedy|Horror|Mystery|Thriller
+1718,Stranger in the House ,Thriller
+1719,"Sweet Hereafter, The ",Drama
+1720,Time Tracers ,Action|Adventure|Sci-Fi
+1721,Titanic ,Drama|Romance
+1722,Tomorrow Never Dies ,Action|Adventure|Thriller
+1723,Twisted ,Comedy|Drama
+1724,Full Speed ,Drama
+1725,"Education of Little Tree, The ",Drama
+1726,"Postman, The ",Action|Adventure|Drama|Sci-Fi
+1727,"Horse Whisperer, The ",Drama|Romance
+1728,"Winter Guest, The ",Drama
+1729,Jackie Brown ,Crime|Drama|Thriller
+1730,Kundun ,Drama
+1731,Mr. Magoo ,Comedy
+1732,"Big Lebowski, The ",Comedy|Crime
+1733,Afterglow ,Drama|Romance
+1734,My Life in Pink ,Comedy|Drama
+1735,Great Expectations ,Drama|Romance
+1738,Vermin ,Comedy
+1739,3 Ninjas: High Noon On Mega Mountain ,Action|Children|Comedy
+1740,Men of Means ,Action|Drama
+1742,Caught Up ,Crime
+1743,Arguing the World ,Documentary
+1744,Firestorm ,Action|Adventure|Thriller
+1746,Senseless ,Comedy
+1747,Wag the Dog ,Comedy
+1748,Dark City ,Adventure|Film-Noir|Sci-Fi|Thriller
+1749,The Leading Man ,Drama|Romance|Thriller
+1750,Star Kid ,Adventure|Children|Fantasy|Sci-Fi
+1752,Hard Rain ,Action|Crime|Thriller
+1753,Half Baked ,Comedy
+1754,Fallen ,Crime|Drama|Fantasy|Thriller
+1755,Shooting Fish ,Comedy|Romance
+1756,"Prophecy II, The ",Horror
+1757,Fallen Angels ,Drama|Romance
+1759,Four Days in September ,Drama
+1760,Spice World ,Comedy
+1762,Deep Rising ,Action|Horror|Sci-Fi
+1764,Tainted ,Comedy|Thriller
+1765,"Letter From Death Row, A ",Crime|Drama
+1767,Music From Another Room ,Drama|Romance
+1768,Mother and Son ,Drama
+1769,"Replacement Killers, The ",Action|Crime|Thriller
+1770,B. Monkey ,Crime|Romance|Thriller
+1771,Night Flier ,Horror
+1772,Blues Brothers 2000 ,Action|Comedy|Musical
+1773,Tokyo Fist ,Action|Drama
+1774,Mass Transit ,Comedy|Drama
+1776,Ride ,Drama
+1777,"Wedding Singer, The ",Comedy|Romance
+1779,Sphere ,Sci-Fi|Thriller
+1780,Ayn Rand: A Sense of Life ,Documentary
+1781,"Further Gesture, A ",Drama
+1782,Little City ,Comedy|Romance
+1783,Palmetto ,Crime|Drama|Mystery|Romance|Thriller
+1784,As Good as It Gets ,Comedy|Drama|Romance
+1785,King of New York ,Crime|Thriller
+1787,"Paralyzing Fear: The Story of Polio in America, A ",Documentary
+1788,Men with Guns ,Action|Drama
+1789,"Sadness of Sex, The ",Drama
+1791,Twilight ,Crime|Drama|Thriller
+1792,U.S. Marshals ,Action|Crime|Thriller
+1793,Welcome to Woop-Woop ,Comedy
+1794,Love and Death on Long Island ,Comedy|Drama
+1795,"Callejón de los milagros, El ",Drama
+1796,In God's Hands ,Action|Drama
+1797,Everest ,Documentary|IMAX
+1798,Hush ,Thriller
+1799,Suicide Kings ,Comedy|Crime|Drama|Mystery|Thriller
+1801,"Man in the Iron Mask, The ",Action|Adventure|Drama
+1804,"Newton Boys, The ",Crime|Drama
+1805,Wild Things ,Crime|Drama|Mystery|Thriller
+1806,Paulie ,Adventure|Children|Comedy
+1807,"Cool, Dry Place, A ",Drama
+1809,Fireworks ,Crime|Drama
+1810,Primary Colors ,Comedy|Drama
+1811,"Niagara, Niagara ",Drama
+1812,Wide Awake ,Children|Comedy|Drama
+1814,"Price Above Rubies, A ",Drama
+1815,Eden ,Drama
+1816,Two Girls and a Guy ,Comedy|Drama
+1817,No Looking Back ,Drama|Romance
+1819,Storefront Hitchcock ,Documentary|Musical
+1820,"Proposition, The ",Drama|Romance
+1821,"Object of My Affection, The ",Comedy|Romance
+1822,Meet the Deedles ,Children|Comedy
+1824,Homegrown ,Comedy|Thriller
+1825,The Players Club ,Comedy|Drama
+1826,Barney's Great Adventure ,Adventure|Children
+1827,"Big One, The ",Comedy|Documentary
+1829,Chinese Box ,Drama|Romance
+1830,Follow the Bitch ,Comedy
+1831,Lost in Space ,Action|Adventure|Sci-Fi
+1832,Heaven's Burning ,Action|Drama
+1833,Mercury Rising ,Action|Drama|Thriller
+1834,"Spanish Prisoner, The ",Crime|Drama|Mystery|Thriller
+1835,City of Angels ,Drama|Fantasy|Romance
+1836,"Last Days of Disco, The ",Comedy|Drama
+1837,"Odd Couple II, The ",Comedy
+1839,My Giant ,Comedy
+1840,He Got Game ,Drama
+1841,"Gingerbread Man, The ",Drama|Thriller
+1842,Illtown ,Crime|Drama
+1843,Slappy and the Stinkers ,Children|Comedy
+1844,Live Flesh ,Drama|Romance
+1845,Zero Effect ,Comedy|Mystery|Thriller
+1846,Nil By Mouth ,Drama
+1847,Ratchet ,Drama|Thriller
+1848,"Borrowers, The ",Adventure|Children|Comedy|Fantasy
+1849,Prince Valiant ,Adventure
+1850,"I Love You, Don't Touch Me! ",Drama|Romance
+1851,Leather Jacket Love Story ,Drama|Romance
+1852,Love Walked In ,Drama|Thriller
+1853,"Alan Smithee Film: Burn Hollywood Burn, An ",Comedy
+1854,Kissing a Fool ,Comedy|Romance
+1855,Krippendorf's Tribe ,Comedy
+1856,Kurt & Courtney ,Documentary
+1857,"Real Blonde, The ",Comedy
+1858,Mr. Nice Guy ,Action|Comedy
+1859,Taste of Cherry ,Drama
+1860,Character ,Drama
+1861,Junk Mail ,Comedy|Thriller
+1862,Species II ,Horror|Sci-Fi
+1863,Major League: Back to the Minors ,Comedy
+1864,Sour Grapes ,Comedy
+1865,Wild Man Blues ,Documentary
+1866,"Big Hit, The ",Action|Comedy|Crime
+1867,Tarzan and the Lost City ,Action|Adventure
+1869,Black Dog ,Action|Thriller
+1870,"Dancer, Texas Pop. 81 ",Comedy|Drama
+1871,"Friend of the Deceased, A ",Comedy|Drama
+1872,Go Now ,Drama
+1873,"Misérables, Les ",Crime|Drama|Romance|War
+1874,Still Breathing ,Comedy|Romance
+1875,Clockwatchers ,Comedy
+1876,Deep Impact ,Drama|Sci-Fi|Thriller
+1877,Little Men ,Drama
+1878,Woo ,Comedy|Romance
+1879,"Hanging Garden, The ",Drama|Romance
+1880,Lawn Dogs ,Drama
+1881,Quest for Camelot ,Adventure|Animation|Children|Fantasy|Musical
+1882,Godzilla ,Action|Sci-Fi|Thriller
+1883,Bulworth ,Comedy|Drama|Romance
+1884,Fear and Loathing in Las Vegas ,Adventure|Comedy|Drama
+1885,"Opposite of Sex, The ",Comedy|Drama|Romance
+1886,I Got the Hook Up ,Comedy
+1887,Almost Heroes ,Adventure|Comedy|Western
+1888,Hope Floats ,Comedy|Drama|Romance
+1889,Insomnia ,Drama|Mystery|Thriller
+1890,Little Boy Blue ,Drama
+1891,"Ugly, The ",Horror|Thriller
+1892,"Perfect Murder, A ",Thriller
+1893,Beyond Silence ,Drama
+1894,Six Days Seven Nights ,Adventure|Comedy|Romance
+1895,Can't Hardly Wait ,Comedy|Drama|Romance
+1896,Cousin Bette ,Comedy
+1897,High Art ,Drama|Romance
+1898,"Land Girls, The ",Drama|War
+1899,Passion in the Desert ,Adventure|Drama
+1900,"Children of Heaven, The ",Comedy|Drama
+1901,Dear Jesse ,Documentary
+1902,Dream for an Insomniac ,Drama|Romance
+1903,Hav Plenty ,Comedy
+1904,Henry Fool ,Comedy|Drama
+1905,Marie from the Bay of Angels ,Drama
+1906,Mr. Jealousy ,Comedy|Romance
+1907,Mulan ,Adventure|Animation|Children|Comedy|Drama|Musical|Romance
+1908,Resurrection Man ,Drama|Thriller
+1909,"X-Files: Fight the Future, The ",Action|Crime|Mystery|Sci-Fi|Thriller
+1910,I Went Down ,Comedy|Crime|Drama
+1911,Dr. Dolittle ,Comedy
+1912,Out of Sight ,Comedy|Crime|Drama|Romance|Thriller
+1913,Picnic at Hanging Rock ,Drama|Mystery
+1914,Smoke Signals ,Comedy|Drama
+1915,Voyage to the Beginning of the World ,Drama
+1916,Buffalo '66 ,Drama|Romance
+1917,Armageddon ,Action|Romance|Sci-Fi|Thriller
+1918,Lethal Weapon 4 ,Action|Comedy|Crime|Thriller
+1919,Madeline ,Children|Comedy
+1920,Small Soldiers ,Animation|Children|Fantasy|War
+1921,Pi ,Drama|Sci-Fi|Thriller
+1922,Whatever ,Drama
+1923,There's Something About Mary ,Comedy|Romance
+1924,Plan 9 from Outer Space ,Horror|Sci-Fi
+1925,Wings ,Action|Drama|Romance|War
+1926,"Broadway Melody, The ",Musical
+1927,All Quiet on the Western Front ,Action|Drama|War
+1928,Cimarron ,Drama|Western
+1929,Grand Hotel ,Drama|Romance
+1930,Cavalcade ,Drama|Romance|War
+1931,Mutiny on the Bounty ,Adventure|Drama
+1932,"Great Ziegfeld, The ",Drama|Musical
+1933,"Life of Emile Zola, The ",Drama
+1934,You Can't Take It with You ,Comedy|Romance
+1935,How Green Was My Valley ,Drama|Musical|Romance
+1936,Mrs. Miniver ,Drama|War
+1937,Going My Way ,Comedy|Drama|Musical
+1938,"Lost Weekend, The ",Drama
+1939,"Best Years of Our Lives, The ",Drama|War
+1940,Gentleman's Agreement ,Drama
+1941,Hamlet ,Drama
+1942,All the King's Men ,Drama
+1943,"Greatest Show on Earth, The ",Drama
+1944,From Here to Eternity ,Drama|Romance|War
+1945,On the Waterfront ,Crime|Drama
+1946,Marty ,Drama|Romance
+1947,West Side Story ,Drama|Musical|Romance
+1948,Tom Jones ,Adventure|Comedy|Romance
+1949,"Man for All Seasons, A ",Drama
+1950,In the Heat of the Night ,Drama|Mystery
+1951,Oliver! ,Drama|Musical
+1952,Midnight Cowboy ,Drama
+1953,"French Connection, The ",Action|Crime|Thriller
+1954,Rocky ,Drama
+1955,Kramer vs. Kramer ,Drama
+1956,Ordinary People ,Drama
+1957,Chariots of Fire ,Drama
+1958,Terms of Endearment ,Comedy|Drama
+1959,Out of Africa ,Drama|Romance
+1960,"Last Emperor, The ",Drama
+1961,Rain Man ,Drama
+1962,Driving Miss Daisy ,Drama
+1963,Take the Money and Run ,Comedy|Crime
+1964,Klute ,Drama|Mystery
+1965,Repo Man ,Comedy|Sci-Fi
+1966,Metropolitan ,Comedy
+1967,Labyrinth ,Adventure|Fantasy|Musical
+1968,"Breakfast Club, The ",Comedy|Drama
+1969,"Nightmare on Elm Street 2: Freddy's Revenge, A ",Horror
+1970,"Nightmare on Elm Street 3: Dream Warriors, A ",Horror|Thriller
+1971,"Nightmare on Elm Street 4: The Dream Master, A ",Horror|Thriller
+1972,"Nightmare on Elm Street 5: The Dream Child, A ",Horror
+1973,Freddy's Dead: The Final Nightmare ,Horror
+1974,Friday the 13th ,Horror|Mystery|Thriller
+1975,Friday the 13th Part 2 ,Horror
+1976,Friday the 13th Part 3: 3D ,Horror
+1977,Friday the 13th Part IV: The Final Chapter ,Horror
+1978,Friday the 13th Part V: A New Beginning ,Horror
+1979,Friday the 13th Part VI: Jason Lives ,Horror
+1980,Friday the 13th Part VII: The New Blood ,Horror
+1981,Friday the 13th Part VIII: Jason Takes Manhattan ,Horror
+1982,Halloween ,Horror
+1983,Halloween II ,Horror
+1984,Halloween III: Season of the Witch ,Horror
+1985,Halloween 4: The Return of Michael Myers ,Horror
+1986,Halloween 5: The Revenge of Michael Myers ,Horror
+1987,Prom Night ,Horror
+1988,Prom Night II ,Horror|Thriller
+1989,Prom Night III: The Last Kiss ,Horror
+1990,Prom Night IV: Deliver Us From Evil ,Horror
+1991,Child's Play ,Horror|Thriller
+1992,Child's Play 2 ,Horror|Thriller
+1993,Child's Play 3 ,Comedy|Horror|Thriller
+1994,Poltergeist ,Horror|Thriller
+1995,Poltergeist II: The Other Side ,Horror|Thriller
+1996,Poltergeist III ,Horror|Thriller
+1997,"Exorcist, The ",Horror|Mystery
+1998,Exorcist II: The Heretic ,Horror
+1999,"Exorcist III, The ",Horror
+2000,Lethal Weapon ,Action|Comedy|Crime|Drama
