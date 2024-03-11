@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Welcome</title>
+  </head>
+  <body>
+    <h1>Welcome, {{ username }}!</h1>
+    {% if recommended_movies is not none %}
+    <h1>Recommendations</h1>
+    <ul>
+      {% for recommended_movie in recommended_movies %}
+      <li>{{ recommended_movie[0] }} - {{ recommended_movie[1] }}</li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+    <p><a href="/">Home</a></p>
+    <p><a href="/logout">Logout</a></p>
+  </body>
+</html>
